@@ -1,0 +1,292 @@
+
+
+--- Page 1 ---
+CE Licence No
+
+Valid Upto: 3-Aug-25
+. . . From Date : 26-Oct-2025
+Interim Bill Bill of Supply ToDate : 19-Nov-2095
+Age: js | UHID: Tt tte
+Name - Sex:
+Father Name
+Address IP Number:
+
+Doctor Name
+Speciality
+
+Ward Name
+Bed No
+
+Billing Type
+
+Authorization No:
+
+TPA/Corporate(1): \
+
+Employer Name :
+
+Service
+Consultation(999311 })
+Equipment(999311 )
+Invasive Procedures(999311 )
+Investigations(999311 }
+Medical Records(999311 )
+Non Invasive Procedure(999311 )
+Nutritional and Functional Assessment Charges(999311 )
+OT Charges(999311 )
+OT Consumables(999311 }
+OT Pharmacy(999311 )
+Pharmacy Consumables(999311 )
+Physiotherapy(999311 }
+Professional Charges(999311 )
+Profile(999311 )
+Room Rent(999311 )
+Ward Pharmacy(999311 }
+
+Bill No
+
+Date
+
+: INT2043376
+: 19-Nov-2025
+
+| Vii ee ee ail
+
+: 26-Oct-2025 14:13:20 pm
+
+Admission Date
+
+ail
+
+Time : 13:54:38
+
+Amount(’)
+79,750.00
+213,250.00
+35,720.00
+173,010.00
+600.00
+141,120.00
+600.00
+115,000.00
+52,517.96
+2,244.37
+334,504.78
+22,500.00
+102,500.00
+131,170.00
+235,800.00
+569,475.95
+
+Page 1 of 90
+
+
+--- Page 2 ---
+ame: IP No: BillNo: %INT2043376
+
+Service Amount 2,209, 763.00
+
+Total Discount
+
+Service Amount After Discount (Bill of Suppl 2,209, 763.00
+
+Other Information :
+Bill of Supply : INT2043376 2,209,763.00
+Tax Invoice
+
+Total Payable Amount 2,209,763.00
+
+=
+a
+=
+
+Authorization Amount(1) 0.00
+
+To Pay 2,209,763.00
+To be Refund 0.00
+Net Payable 2,209, 763.00
+
+Payment Details:
+
+Interim bill amount in words: Twenty-Two Lakhs Nine Thousand Seven Hundred Sixty-Three Only
+
+No Tax Ils Payable on Reverse Charge Basis
+
+Outstanding Amount 9 ONO Fe. An
+
+wEltialu oO Cashier/Manager
+
+Disclai This Interim Bill generated as requested by Patient for information purpose only and does not have any financial implications.
+isclaimer:
+
+The final Bill amount may vary depending on actual consumption of services and medicines at the time of discharge.
+
+Disclaimer: “All the above dates indicated as Date & Time of the entry only Page 2 of 90
+
+
+--- Page 3 ---
+ame :
+
+SL. Service Service Name
+( Order No. }
+
+No code
+
+Consultation(999311 )
+
+1 19634
+
+2 19631
+
+3 19634
+
+4 19654
+
+5 19634
+
+6 19634
+
+Y 19631
+
+a 19641
+
+9 19631
+
+1019631
+
+11 19644
+
+12 19644
+
+Disclaimer :
+
+Consultation
+
+IPF CONSULTATION
+CHARGES
+
+IPF CONSULTATION
+CHARGES
+
+IPF CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+IPF CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+IP CONSULTATION
+CHARGES
+
+“All the above dates indicated as Date & Time of the entry only
+
+Alias Code Dr. Name
+
+IP No:
+
+Payer Payable
+
+Start Date
+
+End Date Qty/Duration
+(in mins }
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+BillNo:
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+INT2043376
+
+Page 3 of 90
+
+RefTariff Dis( %) Amount(*)
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00
+
+1,000.00

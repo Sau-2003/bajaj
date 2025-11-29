@@ -1,0 +1,3589 @@
+{
+    "total_invoices": 15,
+    "total_computed_sum": 245997.11000000002,
+    "total_extracted_sum": 121846.8,
+    "total_line_items": 1451,
+    "tax_totals": {
+        "TAX": 178.91
+    },
+    "per_invoice_summary": [
+        {
+            "invoice_file": "enhanced_train_sample_10_extracted.json",
+            "total_items": 27,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 2346.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_11_extracted.json",
+            "total_items": 1,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 1.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_12_extracted.json",
+            "total_items": 228,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 2727.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_13_extracted.json",
+            "total_items": 230,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 190951.22000000003,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_14_extracted.json",
+            "total_items": 355,
+            "subtotal": "200.00",
+            "extracted_total": "200.00",
+            "computed_total": 1605.0,
+            "accuracy": "MISMATCH"
+        },
+        {
+            "invoice_file": "enhanced_train_sample_15_extracted.json",
+            "total_items": 296,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 46216.87,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_1_extracted.json",
+            "total_items": 46,
+            "subtotal": null,
+            "extracted_total": "73420.25",
+            "computed_total": 43.0,
+            "accuracy": "MISMATCH"
+        },
+        {
+            "invoice_file": "enhanced_train_sample_2_extracted.json",
+            "total_items": 118,
+            "subtotal": "48226.55",
+            "extracted_total": "48226.55",
+            "computed_total": 1105.02,
+            "accuracy": "MISMATCH"
+        },
+        {
+            "invoice_file": "enhanced_train_sample_3_extracted.json",
+            "total_items": 1,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 1.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_4_extracted.json",
+            "total_items": 20,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 55.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_5_extracted.json",
+            "total_items": 59,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 778.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_6_extracted.json",
+            "total_items": 36,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 83.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_7_extracted.json",
+            "total_items": 9,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 23.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_8_extracted.json",
+            "total_items": 4,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 14.0,
+            "accuracy": null
+        },
+        {
+            "invoice_file": "enhanced_train_sample_9_extracted.json",
+            "total_items": 21,
+            "subtotal": null,
+            "extracted_total": null,
+            "computed_total": 48.0,
+            "accuracy": null
+        }
+    ],
+    "item_level_aggregation": {
+        "--- Page": {
+            "quantity": 50.0,
+            "total_amount": 142.0
+        },
+        "26-Oct-2025": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "Page": {
+            "quantity": 17.0,
+            "total_amount": 50.0
+        },
+        "Service Amount": {
+            "quantity": 1.0,
+            "total_amount": 763.0
+        },
+        "Service Amount After Discount (Bill of Suppl": {
+            "quantity": 1.0,
+            "total_amount": 763.0
+        },
+        "INT2043376": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Total Payable Amount": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Authorization Amount(1)": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "To Pay": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "To be Refund": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "Net Payable": {
+            "quantity": 1.0,
+            "total_amount": 763.0
+        },
+        "Outstanding Amount": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "Time of the entry only Page": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "1": {
+            "quantity": 3010597.84,
+            "total_amount": 2414.3500000000004
+        },
+        "2": {
+            "quantity": 3006166.0,
+            "total_amount": 10.0
+        },
+        "3": {
+            "quantity": 1981.7,
+            "total_amount": 23.0
+        },
+        "4": {
+            "quantity": 3165.0,
+            "total_amount": 20.0
+        },
+        "5": {
+            "quantity": 1966.0,
+            "total_amount": 5.0
+        },
+        "6": {
+            "quantity": 1964.0,
+            "total_amount": 13.0
+        },
+        "Y": {
+            "quantity": 1963.0,
+            "total_amount": 1.0
+        },
+        "a": {
+            "quantity": 1965.0,
+            "total_amount": 2.0
+        },
+        "9": {
+            "quantity": 2043.0,
+            "total_amount": 1.0
+        },
+        "11": {
+            "quantity": 1964.0,
+            "total_amount": 4.0
+        },
+        "12": {
+            "quantity": 19413996.0,
+            "total_amount": 12.0
+        },
+        "04/11/2025": {
+            "quantity": 315404387.0,
+            "total_amount": 35.0
+        },
+        "BLOOD SUGAR BY GLUCOMETER": {
+            "quantity": 24.0,
+            "total_amount": 140.0
+        },
+        "LUMBAR PUNCTURE": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "Total": {
+            "quantity": 2.0,
+            "total_amount": 2070.0
+        },
+        "VASCULAR CLARIS NON STICK FORCEP": {
+            "quantity": 0.0,
+            "total_amount": 5.0
+        },
+        "WARMING MATTRESS": {
+            "quantity": 0.0,
+            "total_amount": 5.0
+        },
+        "Tushar Parikh)": {
+            "quantity": 2.0,
+            "total_amount": 7.0
+        },
+        "BLOOD GROUPING": {
+            "quantity": 0.0,
+            "total_amount": 4.0
+        },
+        "BLOOD GROUPING - NAT": {
+            "quantity": 0.0,
+            "total_amount": 4.0
+        },
+        "FRESH FROZEN PLASMA (WITHOUT REPLACE) -": {
+            "quantity": 0.0,
+            "total_amount": 4.0
+        },
+        "Printed On": {
+            "quantity": 6.0,
+            "total_amount": 54.0
+        },
+        "ADVANCED VENTILATION (BEAR": {
+            "quantity": 525.0,
+            "total_amount": 0.0
+        },
+        "O7/1": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "4 No": {
+            "quantity": 5.0,
+            "total_amount": 0.0
+        },
+        "1 No": {
+            "quantity": 4391.0,
+            "total_amount": 0.0
+        },
+        "INo": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1No": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "No": {
+            "quantity": 1235.8,
+            "total_amount": 14.0
+        },
+        "4No": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "3 No": {
+            "quantity": 990.0,
+            "total_amount": 0.0
+        },
+        "2 No": {
+            "quantity": 660.0,
+            "total_amount": 0.0
+        },
+        "BABY MASSAGE": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "IP": {
+            "quantity": 102.0,
+            "total_amount": 2.0
+        },
+        "AMITAX": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "DEXTROSE": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "KENADION": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "AMINOVEN INFANT": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "SMOFLIPID": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "-": {
+            "quantity": 2062606.0,
+            "total_amount": 138.05
+        },
+        "03/11/2025": {
+            "quantity": 3840777.0,
+            "total_amount": 33.0
+        },
+        "05/11/2025": {
+            "quantity": 250725396.0,
+            "total_amount": 37.0
+        },
+        "06/11/2025": {
+            "quantity": 3858553.0,
+            "total_amount": 28.0
+        },
+        "INO": {
+            "quantity": 260.0,
+            "total_amount": 10.0
+        },
+        "BOTTLE": {
+            "quantity": 282.3,
+            "total_amount": 26.0
+        },
+        "1 BOTTLE": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "1 VIAL": {
+            "quantity": 72.0,
+            "total_amount": 0.0
+        },
+        "2 BOTTLE": {
+            "quantity": 7.0,
+            "total_amount": 2.0
+        },
+        "IBOTTLE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1VIAL": {
+            "quantity": 672.0,
+            "total_amount": 0.0
+        },
+        "POLYVOL PRO": {
+            "quantity": 30.0,
+            "total_amount": 0.0
+        },
+        "VEIN O LINE S": {
+            "quantity": 30.0,
+            "total_amount": 0.0
+        },
+        "DISPO SYRINGE": {
+            "quantity": 6.0,
+            "total_amount": 12.0
+        },
+        "SYRINGE W/O NEEDLE": {
+            "quantity": 6.0,
+            "total_amount": 0.0
+        },
+        "SYRINGE W/O NEED": {
+            "quantity": 5.0,
+            "total_amount": 0.0
+        },
+        "STERILE GLOVES": {
+            "quantity": 5.0,
+            "total_amount": 29.0
+        },
+        "03/11/2025 G23F": {
+            "quantity": 11005.0,
+            "total_amount": 3.0
+        },
+        "sno": {
+            "quantity": 2450.6,
+            "total_amount": 27.0
+        },
+        "4ANO": {
+            "quantity": 96.0,
+            "total_amount": 0.0
+        },
+        "NO": {
+            "quantity": 175.0,
+            "total_amount": 0.0
+        },
+        "2NO": {
+            "quantity": 28.0,
+            "total_amount": 0.0
+        },
+        "4NO": {
+            "quantity": 14.9,
+            "total_amount": 6.0
+        },
+        "NEEDCHMD)": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "10/11/2025": {
+            "quantity": 250502.0,
+            "total_amount": 2.0
+        },
+        "23": {
+            "quantity": 1965.0,
+            "total_amount": 2.0
+        },
+        "INFANT FEEDING TUBE": {
+            "quantity": 63.0,
+            "total_amount": 0.0
+        },
+        "8(ROMS) IFTS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "FACE MASK STERILE REGAL-": {
+            "quantity": 8.0,
+            "total_amount": 0.0
+        },
+        "ene": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "TEGADERM": {
+            "quantity": 324.0,
+            "total_amount": 6.0
+        },
+        "GLOVES": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "EXAMINATION NITRILE GLOVES": {
+            "quantity": 32.3,
+            "total_amount": 4.0
+        },
+        "10/11/2025 NO825 Jul-30": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "14899": {
+            "quantity": 196.0,
+            "total_amount": 0.0
+        },
+        "POLYMED": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "10/11/2025 G25F110053 May-30": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "RHR": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "8 (TOP)": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "BLOOD LANCETS(EASY CARE) BLAN": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "FRIENDS UNDER PAD CARE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "GLYCERINE": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "SGS7) GLOVES": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "INTRACATH NO -26 POLYMED": {
+            "quantity": 508.9,
+            "total_amount": 17.0
+        },
+        "NOM": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "CON": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "VEIN O LINE SI0CM (ROMSON)": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "SPECICAN": {
+            "quantity": 7.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025": {
+            "quantity": 1101304.0,
+            "total_amount": 45.0
+        },
+        "12/11/2025": {
+            "quantity": 672759.0,
+            "total_amount": 11.0
+        },
+        "CT SCAN CHARGES": {
+            "quantity": 9891.0,
+            "total_amount": 12.0
+        },
+        "INJ-EMESET-4MG-2ML": {
+            "quantity": 6.0,
+            "total_amount": 30.0
+        },
+        "INJ-KABIMOL-FREEFLEX-100ML": {
+            "quantity": 64.0,
+            "total_amount": 16.0
+        },
+        "IV-CANNULA-VENFLON-18G": {
+            "quantity": 5571989.0,
+            "total_amount": 48.4
+        },
+        "pee": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "Printed by an": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "Bill Date -": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "19-Nov-2025": {
+            "quantity": 113.9,
+            "total_amount": 3.0
+        },
+        "34-Nov-2025": {
+            "quantity": 13.1,
+            "total_amount": 2.0
+        },
+        "B17A101": {
+            "quantity": 1.0,
+            "total_amount": 8.0
+        },
+        "IV-DRESSING-INTRA-SHIELD- G2410109": {
+            "quantity": 5.0,
+            "total_amount": 35.0
+        },
+        "-1000ML-NON-": {
+            "quantity": 3367084.0,
+            "total_amount": 63.24
+        },
+        "IV-FLUID-RL-SO00ML-NON-PVC-": {
+            "quantity": 227662.0,
+            "total_amount": 16.0
+        },
+        "SYRINGE-ROMOJET-ROMSON-21G- G25H020": {
+            "quantity": 7.0,
+            "total_amount": 14.0
+        },
+        "INJ-BIOTAX-1GM FA00148": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "INJ-PANTOCID-IV-40MG NPBOOIG": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "-500ML-NON-": {
+            "quantity": 1068529.0,
+            "total_amount": 37.24
+        },
+        "IPD CONSUMABLE CHARGES": {
+            "quantity": 48906.0,
+            "total_amount": 59.0
+        },
+        "sYTIW2500": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "INJ-AMIKAMAC-250MG": {
+            "quantity": 18253290.0,
+            "total_amount": 122.1
+        },
+        "-SO0ML-NON-": {
+            "quantity": 4107854.0,
+            "total_amount": 3.0
+        },
+        "-SOOML-NON-": {
+            "quantity": 2157086.0,
+            "total_amount": 81.6
+        },
+        "48635/PIS/25N": {
+            "quantity": 1.0,
+            "total_amount": 3937.64
+        },
+        "so YNW250 I": {
+            "quantity": 66.1,
+            "total_amount": 5.0
+        },
+        "INJ-RANTAC-50MG-2ML XIR22412": {
+            "quantity": 6.0,
+            "total_amount": 19.0
+        },
+        "5GM": {
+            "quantity": 73009640.0,
+            "total_amount": 74545.22
+        },
+        "MOUTH-WASH-HEXIDINE-160ML L25130": {
+            "quantity": 1.0,
+            "total_amount": 3.0
+        },
+        "NEEDLE-DISPO-": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "LANCET-ULTRA-SAFETY": {
+            "quantity": 1002820.0,
+            "total_amount": 86.64000000000001
+        },
+        "ISENS-GLUCOSTRIP XDO2LLS": {
+            "quantity": 3.0,
+            "total_amount": 7.0
+        },
+        "INJ-AMIKAMAC-500MG": {
+            "quantity": 38331381.0,
+            "total_amount": 240.44
+        },
+        "-100ML-NON-": {
+            "quantity": 4330996.0,
+            "total_amount": 216.10000000000002
+        },
+        "IV-FLUID-RL-SO0ML-NON- PVC-": {
+            "quantity": 113831.0,
+            "total_amount": 8.0
+        },
+        "SYRINGE- ROMOJET-ROMSON-21G- G25H020": {
+            "quantity": 5.0,
+            "total_amount": 1.0
+        },
+        "UNDERPAD-DIGNITY-MATTEY- G2511400": {
+            "quantity": 5.0,
+            "total_amount": 3.0
+        },
+        "SPIROMETER-RESPIROMETER G25G040": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "EXTENSION-SET-Q-SYTE-THREE-": {
+            "quantity": 5062067.0,
+            "total_amount": 300.42
+        },
+        "48758/PIS/25N": {
+            "quantity": 1.0,
+            "total_amount": 8482.12
+        },
+        "BANDAGE-CREPE-6INCH": {
+            "quantity": 33.0,
+            "total_amount": 78.75
+        },
+        "CATHETER-URETHERAL-K-90": {
+            "quantity": 2507288.0,
+            "total_amount": 8.15
+        },
+        "COVER-C-ARM-D306": {
+            "quantity": 250.0,
+            "total_amount": 6.0
+        },
+        "GLOVES-ORTHOPAEDIC-8NO": {
+            "quantity": 25070015.0,
+            "total_amount": 112.88
+        },
+        "GLOVES-POWDER-FREE-7NO-": {
+            "quantity": 25040115.0,
+            "total_amount": 212.8
+        },
+        "25H3015": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "Printed by - on": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "24-Nov-2025": {
+            "quantity": 54.300000000000004,
+            "total_amount": 12.0
+        },
+        "GLOVES-SURGICAL- -7NO": {
+            "quantity": 253207.0,
+            "total_amount": 2.0
+        },
+        "s-25-1483-": {
+            "quantity": 2.0,
+            "total_amount": 3.0
+        },
+        "HIV-KIT-SURGICAL-DISPO KT2410": {
+            "quantity": 3.0,
+            "total_amount": 5.0
+        },
+        "INJ-TERMIN-300MG-10ML V307258": {
+            "quantity": 1.0,
+            "total_amount": 3.0
+        },
+        "INJ-TRENAXA-SOOMG-SML TNA2518": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "IV-CANNULA-VENFLON-20G": {
+            "quantity": 5209519.0,
+            "total_amount": 40.69
+        },
+        "IV-SET-NOVOFUSION": {
+            "quantity": 6188925.0,
+            "total_amount": 241.88
+        },
+        "NEEDLE-DISPO-18NO-HMD": {
+            "quantity": 3644.0,
+            "total_amount": 4.0
+        },
+        "2501025 i": {
+            "quantity": 91.6,
+            "total_amount": 4.0
+        },
+        "POP-BSN-GYPSONA-6INCH": {
+            "quantity": 2.0,
+            "total_amount": 5.0
+        },
+        "UNI/25/0": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "SUCTION-SET-YANKAUR-VACCU- G25E010": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "SUTURE-CENTICRYL-2-0-2317 CE277": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "CFO88": {
+            "quantity": 3.0,
+            "total_amount": 9.0
+        },
+        "SYRINGE-DISPO-10ML-HMD": {
+            "quantity": 54010.0,
+            "total_amount": 3.0
+        },
+        "SYRINGE-DISPO-2ML-HMD": {
+            "quantity": 52402.0,
+            "total_amount": 2.0
+        },
+        "SYRINGE-DISPO-SOML-HMD": {
+            "quantity": 52050.0,
+            "total_amount": 6.0
+        },
+        "SYRINGE-DISPO-5ML-HMD": {
+            "quantity": 53205.0,
+            "total_amount": 4.0
+        },
+        "SPONGE-RADIOACTIVE-10X10- GS-70": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "INJ-ROPIN-HEAVY": {
+            "quantity": 1984006.0,
+            "total_amount": 132.15
+        },
+        "IV-DRESSING-INTRA-SHIELD- G2410107": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "SUTURE-CENTISORB-PNW-2382-2- CE2117": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "IV-FLUID-RL-1000ML-NON-PVC": {
+            "quantity": 1252829.0,
+            "total_amount": 106.08
+        },
+        "48774/PIS/25N es": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "YIIW250": {
+            "quantity": 3.0,
+            "total_amount": 5.0
+        },
+        "IV-SET-TRANS-FLOW G25H010": {
+            "quantity": 2.0,
+            "total_amount": 10.0
+        },
+        "ISENS-GLUCOSTRIP XDOS5LL6": {
+            "quantity": 5.0,
+            "total_amount": 7.0
+        },
+        "INJ-AMIKAMAC-S00MG": {
+            "quantity": 18253039.0,
+            "total_amount": 45.72
+        },
+        "G2511400": {
+            "quantity": 9.0,
+            "total_amount": 9.0
+        },
+        "48795/PIS/25N": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "INJ-TRAMASURE-100MG-2ML E31Y021": {
+            "quantity": 7.0,
+            "total_amount": 18.0
+        },
+        "MASK-NEBULISER-ADULT G25F040": {
+            "quantity": 2.0,
+            "total_amount": 10.0
+        },
+        "RESPULES-DUOLIN-3ML": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "-SOOML-": {
+            "quantity": 1018221.0,
+            "total_amount": 40.57
+        },
+        "RESPULES-BUDECORT-1MG": {
+            "quantity": 2.0,
+            "total_amount": 10.0
+        },
+        "25H7087 i": {
+            "quantity": 44.6,
+            "total_amount": 3.0
+        },
+        "Printed by on": {
+            "quantity": 4.0,
+            "total_amount": 8.0
+        },
+        "94-Now-3075": {
+            "quantity": 15.0,
+            "total_amount": 6.0
+        },
+        "1y-Nov-2025": {
+            "quantity": 21.3,
+            "total_amount": 1.0
+        },
+        "7": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "DRESSING-OPSITE-POST-OP-": {
+            "quantity": 202508.0,
+            "total_amount": 905.0
+        },
+        "BT-SET-ROMSONS G25A020": {
+            "quantity": 3.0,
+            "total_amount": 3.0
+        },
+        "SUPPOSITORY-GERBISA-10MG TAO498A": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "IMPLANT-TWIN-LOCK-BCP-SCREW-": {
+            "quantity": 7011062.0,
+            "total_amount": 30800.0
+        },
+        "IMPLANT-WASHER--TIT": {
+            "quantity": 408962.0,
+            "total_amount": 5.0
+        },
+        "IMPLANT-TWIN-LOCK-BCP-VERO-": {
+            "quantity": 1078825.0,
+            "total_amount": 19600.0
+        },
+        "48973/PIS/25N": {
+            "quantity": 1.0,
+            "total_amount": 40.31
+        },
+        "G25G6040": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "INJ-KABIMOL-FREEFLEX-LOOML": {
+            "quantity": 8.0,
+            "total_amount": 2.0
+        },
+        "YITW250": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "NEEDLE-DISPO-16NO G25E010": {
+            "quantity": 4.0,
+            "total_amount": 3.0
+        },
+        "SYRINGE-ROMOJET-ROMSON-24G- G25B020": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "UNDERPAD-DIGNITY-MATTEY-": {
+            "quantity": 62511400.0,
+            "total_amount": 55.52
+        },
+        "-YIIW250": {
+            "quantity": 3.0,
+            "total_amount": 5.0
+        },
+        "INJ-RANTAC-SOMG-2ML XIR22412": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "TV-CANNULA-VENFLON-20G": {
+            "quantity": 9217743.0,
+            "total_amount": 40.69
+        },
+        "ISENS-GLUCOSTRIP XDO2LL5": {
+            "quantity": 5.0,
+            "total_amount": 3.0
+        },
+        "24-Nov-3025": {
+            "quantity": 15.0,
+            "total_amount": 6.0
+        },
+        "- TOOML-NON-": {
+            "quantity": 623.0,
+            "total_amount": 41266.0
+        },
+        "49218/PIS/25N": {
+            "quantity": 1.0,
+            "total_amount": 56.47
+        },
+        "5065445": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "Tf": {
+            "quantity": 20.5,
+            "total_amount": 1.0
+        },
+        "INJ-EMESET-4MG-2ML -5A00162": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "6712/PRT/25N -1": {
+            "quantity": 475.3,
+            "total_amount": 0.0
+        },
+        "ue INJ-EMESET-4MG-2ML": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "31Y021": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "5217743,": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "G25E010": {
+            "quantity": 6.0,
+            "total_amount": 5.0
+        },
+        "10": {
+            "quantity": 776.7,
+            "total_amount": 3.0
+        },
+        "TV-FLUID-RL-500ML-NON-PVC-": {
+            "quantity": 113831.0,
+            "total_amount": 8.0
+        },
+        "-500ML-": {
+            "quantity": 1018221.0,
+            "total_amount": 40.0
+        },
+        "TAPE-PAPER-MICROPORE-3INCH R072505 i": {
+            "quantity": 444.8,
+            "total_amount": 4.0
+        },
+        "JINDAL PHARMACY CHARGES i": {
+            "quantity": 1.0,
+            "total_amount": 2950.0
+        },
+        "49453/DRG/25N": {
+            "quantity": 1.0,
+            "total_amount": 2820.0
+        },
+        "205": {
+            "quantity": 250.0,
+            "total_amount": 0.0
+        },
+        "BLEEDING TIME x HO15": {
+            "quantity": 45.0,
+            "total_amount": 0.0
+        },
+        "CBC COMPLETE BLOOD COUNT x V021": {
+            "quantity": 280.0,
+            "total_amount": 0.0
+        },
+        "CLOTTING TIME x H016": {
+            "quantity": 45.0,
+            "total_amount": 0.0
+        },
+        "COMPLETE ABG x VWM9": {
+            "quantity": 650.0,
+            "total_amount": 0.0
+        },
+        "204": {
+            "quantity": 440.0,
+            "total_amount": 0.0
+        },
+        "203": {
+            "quantity": 260.0,
+            "total_amount": 0.0
+        },
+        "LIVER FUNCTION TEST LFT x V206": {
+            "quantity": 620.0,
+            "total_amount": 0.0
+        },
+        "PTI x H131": {
+            "quantity": 230.0,
+            "total_amount": 0.0
+        },
+        "LABORATORY CHARGES": {
+            "quantity": 9932.0,
+            "total_amount": 9.0
+        },
+        "HB x HOO1": {
+            "quantity": 45.0,
+            "total_amount": 0.0
+        },
+        "PCV x H002": {
+            "quantity": 60.0,
+            "total_amount": 0.0
+        },
+        "49836/DRG/25N": {
+            "quantity": 1.0,
+            "total_amount": 105.0
+        },
+        "Printed by, on": {
+            "quantity": 3.0,
+            "total_amount": 4.0
+        },
+        "24/1": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "18/7": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "24/11/2025": {
+            "quantity": 33.8,
+            "total_amount": 138.0
+        },
+        "1 ICU ROOM RENT CHARGES": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "1 IP REGISTRATION FEES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "JAI NIVAS - NEPHROLOGIST FEES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "GOWTHAM CONSULTATION FEES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "MOHAN KANNAN CONSULTATION FEES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "RAJ BHARATH CONSULATATION FEES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "5 Mahendra Raghavan consultation fees": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "SENSITIVITY": {
+            "quantity": 369.0,
+            "total_amount": 9.0
+        },
+        "19/11/2025": {
+            "quantity": 2.0,
+            "total_amount": 16.0
+        },
+        "ARTERIAL BLOOD GAS ANALYSIS)": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "9 Procalcitonin -PCT": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "CL)": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "7 C-Reactive Protein (CRP)": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "8 HBAIC (GLYCOSYLATED HEMOGLOBIN)": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "Sensitivity - Aerobic": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "(ARTERIAL BLOOD GAS ANALYSIS)": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "11 Renal Function Test (RFT)": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "12 Complete Blood Count": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "20/11/2025": {
+            "quantity": 3.0,
+            "total_amount": 15.0
+        },
+        "14 Complete Blood Count": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "15 Renal Function Test (AFT)": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "16 SMEAR STUDY": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "CBG": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "18 C-Reactive Protein (CRP)": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "19 URIC ACID - SERUM": {
+            "quantity": 221.0,
+            "total_amount": 1.0
+        },
+        "MONITOR CHARGES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "OXYGEN CHARGES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "MONITOR GHARGES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "22/11/2025": {
+            "quantity": 4.0,
+            "total_amount": 31.0
+        },
+        "23/11/2025": {
+            "quantity": 0.0,
+            "total_amount": 12.0
+        },
+        "24/17/2025": {
+            "quantity": 2.0,
+            "total_amount": 9.0
+        },
+        "19/14/2025": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "21/11/2025": {
+            "quantity": 4.0,
+            "total_amount": 5.0
+        },
+        "4/11/2025": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "e4/1": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "00": {
+            "quantity": 2800.3,
+            "total_amount": 65.0
+        },
+        "Page Mor": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "Diet Charges ,": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "1 ECHO SCREENING": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "2 LAP MONITOR CAMERA LIGHT USED": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "-24/11/2025": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "MRD CHARGES": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "1 To": {
+            "quantity": 2088.0,
+            "total_amount": 1.0
+        },
+        "z": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "4 POPE T2025": {
+            "quantity": 0.0,
+            "total_amount": 1.0
+        },
+        "TS)": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "8 Tet": {
+            "quantity": 202.0,
+            "total_amount": 5.0
+        },
+        "4 FOAM": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "in TOM": {
+            "quantity": 1202.0,
+            "total_amount": 5.0
+        },
+        "13": {
+            "quantity": 215.0,
+            "total_amount": 8.0
+        },
+        "14": {
+            "quantity": 191.0,
+            "total_amount": 5.0
+        },
+        "15": {
+            "quantity": 2.0,
+            "total_amount": 3.0
+        },
+        "17": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "18": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "ig": {
+            "quantity": 191.0,
+            "total_amount": 1.0
+        },
+        "a0": {
+            "quantity": 1574172025.0,
+            "total_amount": 1.0
+        },
+        "21": {
+            "quantity": 2026.0,
+            "total_amount": 18.0
+        },
+        "22": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "2d (O11": {
+            "quantity": 2025.0,
+            "total_amount": 1.0
+        },
+        "24": {
+            "quantity": 191.0,
+            "total_amount": 1.0
+        },
+        "25 TOF": {
+            "quantity": 12026.0,
+            "total_amount": 1.0
+        },
+        "25 TS": {
+            "quantity": 12.0,
+            "total_amount": 0.0
+        },
+        "ar Tat": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "ao": {
+            "quantity": 7375.0,
+            "total_amount": 7.0
+        },
+        "ou": {
+            "quantity": 19.0,
+            "total_amount": 1.0
+        },
+        "a0 TS": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "at": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "t2": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "a3": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "34": {
+            "quantity": 181.0,
+            "total_amount": 1.0
+        },
+        "35": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "36": {
+            "quantity": 1965.0,
+            "total_amount": 3.0
+        },
+        "a7": {
+            "quantity": 1924173990.0,
+            "total_amount": 59.0
+        },
+        "38": {
+            "quantity": 1955.0,
+            "total_amount": 91.0
+        },
+        "a9": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "40": {
+            "quantity": 1965.0,
+            "total_amount": 10.0
+        },
+        "Af TO": {
+            "quantity": 12025.0,
+            "total_amount": 1.0
+        },
+        "ag TE Vene5": {
+            "quantity": 0.0,
+            "total_amount": 1.0
+        },
+        "4g": {
+            "quantity": 7.0,
+            "total_amount": 9.0
+        },
+        "444 Tort": {
+            "quantity": 2025.0,
+            "total_amount": 1.0
+        },
+        "1M V2025 OF": {
+            "quantity": 4.0,
+            "total_amount": 1.0
+        },
+        "66 tO/4": {
+            "quantity": 12025.0,
+            "total_amount": 9.0
+        },
+        "47 FSF": {
+            "quantity": 12025.0,
+            "total_amount": 9.0
+        },
+        "l of": {
+            "quantity": 1.0,
+            "total_amount": 3.0
+        },
+        "MAXON": {
+            "quantity": 2.0,
+            "total_amount": 7.0
+        },
+        "FOLEYS GATHETER": {
+            "quantity": 1.0,
+            "total_amount": 8.0
+        },
+        "EFIPRES (EPHEDRINE)": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "STERILE WATER INU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "SPINAL NEEDLE": {
+            "quantity": 2.0,
+            "total_amount": 5.0
+        },
+        "ECG LEEDS -": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "SURGICARE GLOVES": {
+            "quantity": 2.0,
+            "total_amount": 12.0
+        },
+        "BETADINE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "GAUZE SWAB": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "LOX": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "JETE Mat": {
+            "quantity": 79.0,
+            "total_amount": 5.0
+        },
+        "OXYGEN MASK ADULT(ITEM": {
+            "quantity": 123.0,
+            "total_amount": 3.0
+        },
+        "NIPRO": {
+            "quantity": 4.0,
+            "total_amount": 6.0
+        },
+        "RL SOOML(ITEM": {
+            "quantity": 142.0,
+            "total_amount": 7.0
+        },
+        "NS": {
+            "quantity": 111.0,
+            "total_amount": 3.0
+        },
+        "NIPRO SML(TEM": {
+            "quantity": 14.0,
+            "total_amount": 9.0
+        },
+        "ECOFLACWHY CATEM255": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "EMESET": {
+            "quantity": 8.0,
+            "total_amount": 16.0
+        },
+        "NIPAO": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "VENFLON -": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "MS": {
+            "quantity": 11.0,
+            "total_amount": 1.0
+        },
+        "PANTOREG": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "ANEMOGL": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "Rae": {
+            "quantity": 145.0,
+            "total_amount": 2.0
+        },
+        "2501": {
+            "quantity": 255.0,
+            "total_amount": 4.0
+        },
+        "2a0tOG4": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "01": {
+            "quantity": 210.0,
+            "total_amount": 8.0
+        },
+        "Ot Oa": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "07": {
+            "quantity": 3202.0,
+            "total_amount": 8.0
+        },
+        "HO": {
+            "quantity": 2.0,
+            "total_amount": 8.0
+        },
+        "His": {
+            "quantity": 202.0,
+            "total_amount": 8.0
+        },
+        "01 Q2": {
+            "quantity": 202.0,
+            "total_amount": 8.0
+        },
+        "0": {
+            "quantity": 9158.79,
+            "total_amount": 27.6
+        },
+        "07/0520": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "OF": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "Oo": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "O10": {
+            "quantity": 202.0,
+            "total_amount": 8.0
+        },
+        "O07": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "Oiw0s-": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "O1A0t": {
+            "quantity": 28.0,
+            "total_amount": 7.0
+        },
+        "Tes": {
+            "quantity": 1.0,
+            "total_amount": 8.0
+        },
+        "MOT": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "F1Ow": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "24-11-2025,": {
+            "quantity": 2.0,
+            "total_amount": 14.0
+        },
+        "FOF V/2005": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "79/1": {
+            "quantity": 172025.0,
+            "total_amount": 9.0
+        },
+        "1991/2025": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "1971": {
+            "quantity": 12025.0,
+            "total_amount": 9.0
+        },
+        "TOPE e025": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "19/7": {
+            "quantity": 172025.0,
+            "total_amount": 9.0
+        },
+        "194": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "FOL": {
+            "quantity": 12025.0,
+            "total_amount": 9.0
+        },
+        "2OFt": {
+            "quantity": 12025.0,
+            "total_amount": 9.0
+        },
+        "10/1": {
+            "quantity": 2025.0,
+            "total_amount": 2.0
+        },
+        "18/1": {
+            "quantity": 2026.0,
+            "total_amount": 3.0
+        },
+        "20/1": {
+            "quantity": 308100.0,
+            "total_amount": 19.0
+        },
+        "20/4": {
+            "quantity": 172025.0,
+            "total_amount": 7.0
+        },
+        "20/9": {
+            "quantity": 12025.0,
+            "total_amount": 80.0
+        },
+        "201": {
+            "quantity": 26075.0,
+            "total_amount": 14.0
+        },
+        "20": {
+            "quantity": 1213.0,
+            "total_amount": 5.0
+        },
+        "2091": {
+            "quantity": 12025.0,
+            "total_amount": 7.0
+        },
+        "JO": {
+            "quantity": 2025.0,
+            "total_amount": 0.0
+        },
+        "2051": {
+            "quantity": 2025.0,
+            "total_amount": 0.0
+        },
+        "20/7": {
+            "quantity": 12025.0,
+            "total_amount": 0.0
+        },
+        "20/3": {
+            "quantity": 12025.0,
+            "total_amount": 7.0
+        },
+        "20/1 b2025": {
+            "quantity": 173.0,
+            "total_amount": 0.0
+        },
+        "20/5": {
+            "quantity": 12025.0,
+            "total_amount": 7.0
+        },
+        "2b": {
+            "quantity": 9120285.0,
+            "total_amount": 5.0
+        },
+        "s": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "21/1": {
+            "quantity": 12025.0,
+            "total_amount": 6.0
+        },
+        "21 W205": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "241182028": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "20112025": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "RT W2025": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "Par betes": {
+            "quantity": 1528.0,
+            "total_amount": 9.0
+        },
+        "12025": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "21/4": {
+            "quantity": 172025.0,
+            "total_amount": 5.0
+        },
+        "025": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "Bi/112025": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "2141 e025": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "221": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "22/1": {
+            "quantity": 2025.0,
+            "total_amount": 6.0
+        },
+        "22h)": {
+            "quantity": 12025.0,
+            "total_amount": 6.0
+        },
+        "22/4)": {
+            "quantity": 2025.0,
+            "total_amount": 6.0
+        },
+        "22/11/2028": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "2efiif20es": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "22/7": {
+            "quantity": 12026.0,
+            "total_amount": 10.0
+        },
+        "22112025": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "2201": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "2A MEO2S": {
+            "quantity": 29.2,
+            "total_amount": 6.0
+        },
+        "22/3": {
+            "quantity": 12025.0,
+            "total_amount": 3.0
+        },
+        "22/1 M2025": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "22/1 VED25": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "22/2025": {
+            "quantity": 2.0,
+            "total_amount": 9.0
+        },
+        "ANERGL iG0ML": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "MERROBE": {
+            "quantity": 50.0,
+            "total_amount": 0.0
+        },
+        "SUPRIDOL": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "NEPA": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "PAN TORED": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "NS SOCML (ONLY DRESSIMGHITEM1": {
+            "quantity": 15.0,
+            "total_amount": 1.0
+        },
+        "PANTORED": {
+            "quantity": 8.0,
+            "total_amount": 0.0
+        },
+        "ANEMOL": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "Std LE ha": {
+            "quantity": 14.0,
+            "total_amount": 9.0
+        },
+        "MERAOBE": {
+            "quantity": 50.0,
+            "total_amount": 0.0
+        },
+        "ANEMOL T00ML": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "CORT S": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "RANTAG": {
+            "quantity": 18.0,
+            "total_amount": 0.0
+        },
+        "HIFAO SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "NS (OOML (ONLY DRESSING WITERMT": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "AVIBACTAM": {
+            "quantity": 1.5,
+            "total_amount": 11.0
+        },
+        "AIL": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "AZTRONE": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "SY SETHWOP VEIN SET": {
+            "quantity": 22.0,
+            "total_amount": 0.0
+        },
+        "ITEMA": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "ITEM1": {
+            "quantity": 73.0,
+            "total_amount": 5.0
+        },
+        "5651": {
+            "quantity": 9.0,
+            "total_amount": 4.0
+        },
+        "GO24": {
+            "quantity": 100.0,
+            "total_amount": 6.0
+        },
+        "PRS": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "25001": {
+            "quantity": 10.0,
+            "total_amount": 6.0
+        },
+        "es01": {
+            "quantity": 245.0,
+            "total_amount": 4.0
+        },
+        "Soe": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "SoZ": {
+            "quantity": 5000.0,
+            "total_amount": 7.0
+        },
+        "TH2507": {
+            "quantity": 3201.0,
+            "total_amount": 4.0
+        },
+        "TH2S07": {
+            "quantity": 3201.0,
+            "total_amount": 4.0
+        },
+        "G4": {
+            "quantity": 0.0,
+            "total_amount": 3.0
+        },
+        "O10s": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "Oi": {
+            "quantity": 7404.0,
+            "total_amount": 16.0
+        },
+        "(AK": {
+            "quantity": 202.0,
+            "total_amount": 8.0
+        },
+        "Oa": {
+            "quantity": 202.0,
+            "total_amount": 8.0
+        },
+        "i": {
+            "quantity": 1372.99,
+            "total_amount": 735.6800000000001
+        },
+        "O11": {
+            "quantity": 2202.0,
+            "total_amount": 6.0
+        },
+        "OG": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "04": {
+            "quantity": 207.0,
+            "total_amount": 6.0
+        },
+        "OOF": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "i Na": {
+            "quantity": 202.0,
+            "total_amount": 8.0
+        },
+        "0)": {
+            "quantity": 0.0,
+            "total_amount": 3.0
+        },
+        "O08": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "OO": {
+            "quantity": 202.0,
+            "total_amount": 7.0
+        },
+        "7-02": {
+            "quantity": 202.0,
+            "total_amount": 8.0
+        },
+        "f47": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "BOO,": {
+            "quantity": 7.0,
+            "total_amount": 3.0
+        },
+        "Tab2": {
+            "quantity": 1.2,
+            "total_amount": 5.0
+        },
+        "1-2025,": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "114": {
+            "quantity": 22412085.0,
+            "total_amount": 2.0
+        },
+        "AGMaAVIBAC TARA O5GH) L BO250007 owoede7 P562": {
+            "quantity": 1.2,
+            "total_amount": 5.0
+        },
+        "112": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "113": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "114 o2ft Wau": {
+            "quantity": 23.4,
+            "total_amount": 2.0
+        },
+        "116": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "2a": {
+            "quantity": 141227.0,
+            "total_amount": 8.0
+        },
+        "118": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "419": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "Vat": {
+            "quantity": 2.0,
+            "total_amount": 3.0
+        },
+        "127": {
+            "quantity": 4.0,
+            "total_amount": 8.0
+        },
+        "122": {
+            "quantity": 2.0,
+            "total_amount": 3.0
+        },
+        "123": {
+            "quantity": 241.0,
+            "total_amount": 11.0
+        },
+        "124": {
+            "quantity": 237.0,
+            "total_amount": 1.0
+        },
+        "25": {
+            "quantity": 2.0,
+            "total_amount": 5.0
+        },
+        "cpa": {
+            "quantity": 2.0,
+            "total_amount": 5.0
+        },
+        "128": {
+            "quantity": 241.0,
+            "total_amount": 16.0
+        },
+        "136": {
+            "quantity": 25.0,
+            "total_amount": 7.0
+        },
+        "131 S474": {
+            "quantity": 142025.0,
+            "total_amount": 6.0
+        },
+        "133": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "154": {
+            "quantity": 2412025.0,
+            "total_amount": 7.0
+        },
+        "135": {
+            "quantity": 24112025.0,
+            "total_amount": 5.0
+        },
+        "24112025": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "11/17/2025": {
+            "quantity": 0.0,
+            "total_amount": 6.0
+        },
+        "12/11/2025 ADMISSION CHARGE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "T1256 NICU": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "12/11/2025 NICU": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "84/11/2025 NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "14/11/2025 NICU": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "16/41/2025 NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "4741/2025 NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "18/41/2025 NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "19/11/2025 NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "20/14/2025 NICK": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "2IV2025 NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "22/41/2025 PRIVATE WARD": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "2N11/2025 PRIVATE WARD": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "24/11/2025 PRIVATE WARD": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 NURSING CHANGES, - NICU": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "- NICU": {
+            "quantity": 29.0,
+            "total_amount": 6.0
+        },
+        "14/11/2025 NURSING CHARGES, - NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "17/77/2025": {
+            "quantity": 0.0,
+            "total_amount": 3.0
+        },
+        "2 T1/": {
+            "quantity": 202.0,
+            "total_amount": 5.0
+        },
+        "- PRIVATE WARD": {
+            "quantity": 3.0,
+            "total_amount": 0.0
+        },
+        "111172025 RYLES TUBE INSERTION": {
+            "quantity": 1.0,
+            "total_amount": 300.0
+        },
+        "11112025 Umbdical Line/PICC Insertion": {
+            "quantity": 1.0,
+            "total_amount": 6660.0
+        },
+        "11/2025 RYLES TUBE INSERTION": {
+            "quantity": 1.0,
+            "total_amount": 300.0
+        },
+        "11172025 Iv CANNULISATION": {
+            "quantity": 1.0,
+            "total_amount": 250.0
+        },
+        "13/11/2025 RYLES TUBE INSERTION": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "18/11/2025 Iv CANNULISATION": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1891/2025 Double Occupancy / Attender Stay": {
+            "quantity": 1.0,
+            "total_amount": 2500.0
+        },
+        "1a1Ww2025 Double Occupancy / Attender Stay": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "2011/2025 IV CANNULISATION": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "20/11/2025 Double Occupancy / Attender Stay": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "14/11/2025 BLOOD GROUPING ABO": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025 COMPLETE BLOOD COUNTI(CBC)": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "12/44/2028 VENOUS BLOOD GAS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Pagez of": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "Patient Phone Date of Admission -": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "1811/2025 BILIRUBIN DIRECT - SERUM": {
+            "quantity": 1.0,
+            "total_amount": 240.0
+        },
+        "1NIV2025 BILIRUBIN TOTAL - SERUM": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "1571/2025 CALCIUM - SERUM": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "C-REACTIVE PROTEIN": {
+            "quantity": 6.0,
+            "total_amount": 640.0
+        },
+        "1811/2025 RENAL FUNCTION TEST (RFT)": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "18112025 BLOOO CULTURE AND SENSITIVITY": {
+            "quantity": 1.0,
+            "total_amount": 1.08
+        },
+        "FT4 )": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "13/11/2025 THYROID STIMULATING HORMONE": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "16/11/2025 COMPLETE BLOOD COUNTICSC)": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "169112025 URINE FOR KOH MOUNT": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "1611/2026 PLATELET COUNT - BLOOD": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025 OCCULT BLOOD - STOOL": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "18/17/2025 COMPLETE BLOOD COUNT(C8C)": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "20/11/2025 PLATELET COUNT - BLOOD": {
+            "quantity": 1.0,
+            "total_amount": 240.0
+        },
+        "11/14/2025 X-RAY CHEST AP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "17/14/2025 X-RAY CHEST AP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "14/11/2025 X-RAY CHEST AP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "PageS of": {
+            "quantity": 4.0,
+            "total_amount": 2.0
+        },
+        "94/11/2025": {
+            "quantity": 0.0,
+            "total_amount": 3.0
+        },
+        "2011/2025": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "0,00": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2026 PAEDIATRICS - iP DOCTOR VISIT": {
+            "quantity": 18.0,
+            "total_amount": 0.0
+        },
+        "22/71/2025 PAEDIATRICS - IP DOCTOR VISIT": {
+            "quantity": 6.0,
+            "total_amount": 0.0
+        },
+        "23/71/2025 Aucisiogy Conauitation": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 INSURANCE PROCESSING FEES": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 DIETARY SERVICES - NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 INTUBATION": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/91/2025 VENTILATOR PER DAY": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1/91/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/41/2025 MONITOR CHARGES,": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1411/2025 SYRINGE PUMP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/41/2025 GRBS": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "11/18/2025 OXYGEN PER DAY": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "1/41/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 110.0
+        },
+        "11/71/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "y2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "mvIV2025 Critical Care Consumables": {
+            "quantity": 11.0,
+            "total_amount": 0.0
+        },
+        "1/91/2025 Infection Preventive Measures (IPM)": {
+            "quantity": 11.0,
+            "total_amount": 0.0
+        },
+        "FT": {
+            "quantity": 202.0,
+            "total_amount": 5.0
+        },
+        "41/2025 GRES": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "12/1/2028 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "12/11/2025 DIETARY SERVICES - NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "12/44/2025 SYRINGE PUMP": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "12/11/2025 GRBS": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "12/11/2025 NEBULISATION": {
+            "quantity": 3.0,
+            "total_amount": 0.05
+        },
+        "12/11/2025 OXYGEN PER DAY": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "22025 INITIAL ASSESSMENT CHARGES": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "92/11/2025 LINEN CHARGES": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "V2IN1/2025 Ventilator Initiation": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "12/1 t2028 NEBULISATION": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "12/11/2028 GRBs": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1B": {
+            "quantity": 1202.0,
+            "total_amount": 8.0
+        },
+        "13/11/2025 GRES": {
+            "quantity": 5.0,
+            "total_amount": 0.0
+        },
+        "13/11/2025 NEBULISATION": {
+            "quantity": 26.0,
+            "total_amount": 0.0
+        },
+        "1Wtt/2025 OXYGEN PER DAY": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "13/11/2025 SYRINGE PLUMP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Wi V2025 GRES": {
+            "quantity": 1.0,
+            "total_amount": 11000.0
+        },
+        "13/71/2025 GRBS": {
+            "quantity": 1.4,
+            "total_amount": 0.0
+        },
+        "13/11/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "13/11/2025 Noninvasive Ventilation (NIV)": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "V917/2025": {
+            "quantity": 0.0,
+            "total_amount": 5.0
+        },
+        "9a112026": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "1,0": {
+            "quantity": 2038.0,
+            "total_amount": 0.0
+        },
+        "16": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Page6 of": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "11/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "WIV2025 DIETARY SERVICES - NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "F1V2025 GRBS": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "TWVWw2025 OXYGEN PER DAY": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025 SYRINGE PUMP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "7/11/2025 GRBS": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "TIW2025 GRSS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "18/11/2025 DIETARY SERVICES - NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "81/2025 GRSS": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "1/14/2025 OXYGEN PER Day": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1BI11/2025 SYRINGE PUMP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1AVV2025 GRES": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "18/77/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "WVW2025 GRBS": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "19/91/2025 OXYGEN PER DAY": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "19/19/2025 SYRINGE PUMP": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "19/11/2025 DIETARY SERVICES - NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "19/91/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1911/2025 GRBS": {
+            "quantity": 1.0,
+            "total_amount": 11000.0
+        },
+        "20/91/2025 OXYGEN PER HOUR": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "2OM12025 GRES": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "20/11/2025 MONITOR CHARGES,": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "20/14/2025 SYRINGE PUMP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "20/11/2025 DIETARY SERVICES - NICU": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "ZR": {
+            "quantity": 1202.0,
+            "total_amount": 5.0
+        },
+        "2H": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "Page of": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "V1419/2025": {
+            "quantity": 0.0,
+            "total_amount": 9.0
+        },
+        "26/11/2025": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "44/94/2025 DISPOSABLE SYRINGE S0ML HMD": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Wives OISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "1112025 VASOFIZ": {
+            "quantity": 246.0,
+            "total_amount": 225.0
+        },
+        "riivaugs ACCS PRO BLOOD GLUCOSE": {
+            "quantity": 30.0,
+            "total_amount": 0.0
+        },
+        "1/iVv202e5 DISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "114142025 DISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "11/11/2025 ET TUBE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 EXAMINATION GLOVES MEDIUM": {
+            "quantity": 16.0,
+            "total_amount": 0.0
+        },
+        "Wt12025 INFANT FEEDING TUBE SIZE": {
+            "quantity": 6.0,
+            "total_amount": 61.0
+        },
+        "11/11/2025 KULICK CLAMP": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 LEUKOSAND": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 POWDER FREE GLOVES": {
+            "quantity": 7.5,
+            "total_amount": 13.44
+        },
+        "3,0": {
+            "quantity": 75.34,
+            "total_amount": 0.0
+        },
+        "1412025 SURGICAL BLADE": {
+            "quantity": 22.0,
+            "total_amount": 5.62
+        },
+        "W2025 THREE WAY STOP COCK": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Wi11/2025 UNDER FAD": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "WW": {
+            "quantity": 202.0,
+            "total_amount": 5.0
+        },
+        "LINE": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "08": {
+            "quantity": 0.0,
+            "total_amount": 28.08
+        },
+        "11/11/2025 BLOOD LANCET": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "112025 DISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "VW1V1W2025 DISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "41/14/2025 DISPOSABLE SYRINGE SML HMD": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "11/11/2026 EXAMINATION GLOVES MEDIUM": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "112005 CC": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "ol": {
+            "quantity": 2.0,
+            "total_amount": 1.0
+        },
+        "1441/2025 BLOOD LANCET": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "TAVAA2025 DISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "T141/2025 DISPOSABLE SYRINGE ML KMD": {
+            "quantity": 1.0,
+            "total_amount": 1031.0
+        },
+        "TWa2025 EXAMINATION GLOVES MEDIUM": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "V1VA2025 APRON (PLASTIC)": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "TA VWA025 DISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1191/2025 EXAMINATION GLOVES MEDIUM": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "FOLD": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "1WA2625 MISPOSABLE SYRINGE": {
+            "quantity": 5.0,
+            "total_amount": 0.0
+        },
+        "W412026 POWDER FREE GLOVES": {
+            "quantity": 7.5,
+            "total_amount": 11344.0
+        },
+        "11/11/2025 SLOOD LANCET": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "ACCUSURE PRO BLOOD GLUCOSE": {
+            "quantity": 10.0,
+            "total_amount": 9.0
+        },
+        "11412025 DISPOSABLE SYRINGE": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "1411/2025 DISPOSABLE SYRINGE SML HMD": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "1112025 BABY WIPES": {
+            "quantity": 7.0,
+            "total_amount": 2.0
+        },
+        "11/11/2026 DEXTROSE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11/19/2025 INJEK": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "WTW2025 NS": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "11/11/2025 TEDDYY BABY DIAPER": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "1411/2025 WATER FOR INJ S00ML": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "1112025 TROYHEP": {
+            "quantity": 2500.0,
+            "total_amount": 0.0
+        },
+        "14/11/2025 MEZOLAM S(0G/5ML": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "11412025 TAXIM-250MG/INJ": {
+            "quantity": 1.0,
+            "total_amount": 8.0
+        },
+        "14/11/2025 TAXIM-250MG/INJ": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "l,": {
+            "quantity": 1.0,
+            "total_amount": 3.0
+        },
+        "3,": {
+            "quantity": 2.0,
+            "total_amount": 12.0
+        },
+        "PATHOLOGY": {
+            "quantity": 99931.0,
+            "total_amount": 6.0
+        },
+        "2Dechocardiography": {
+            "quantity": 1180.0,
+            "total_amount": 0.0
+        },
+        "USG Whole Abdomen Including Pelvis and": {
+            "quantity": 640.0,
+            "total_amount": 0.0
+        },
+        "X Ray Chest Lateral (one film)": {
+            "quantity": 184.0,
+            "total_amount": 0.0
+        },
+        "BED CHARGE GENERAL WARD": {
+            "quantity": 6000.0,
+            "total_amount": 0.0
+        },
+        "Consultation for Inpatients": {
+            "quantity": 1083.0,
+            "total_amount": 0.0
+        },
+        "BLOOD SUGAR RANDOM (RBS)": {
+            "quantity": 32.0,
+            "total_amount": 0.0
+        },
+        "CBC": {
+            "quantity": 240.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB270 DENGUE IGM AND IGG": {
+            "quantity": 640.0,
+            "total_amount": 0.0
+        },
+        "18/11/2025 LB269 DENGUE NS1I ANTIGEN": {
+            "quantity": 320.0,
+            "total_amount": 0.0
+        },
+        "RATE)": {
+            "quantity": 80.0,
+            "total_amount": 0.0
+        },
+        "17,": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "15/11/2025 LB042 HBsAg": {
+            "quantity": 24.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB043 HEPATITIS C VIRUS (HCV)": {
+            "quantity": 400.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LBo44 HIV": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "Il,": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "15/11/2025 LB125 LIPID PROFILE": {
+            "quantity": 392.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB124 LIVER FUNCTION TEST (LFT)": {
+            "quantity": 400.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LBO26 MP ANTIGEN (MALARIA RAPID CARD": {
+            "quantity": 232.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB248 PROCALCITONIN": {
+            "quantity": 2070.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB123 RFT/KIDNEY FUNCTION TEST(kft)": {
+            "quantity": 400.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LBOss SERUM AMYLASE": {
+            "quantity": 240.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LBO89 SERUM LIPASE": {
+            "quantity": 320.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB127 SERUM VITAMIN B-I2 LEVEL": {
+            "quantity": 480.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB263 TYPHIDOT IgG IgM": {
+            "quantity": 320.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LBIS4 VITAMIN D3 ASSAY": {
+            "quantity": 800.0,
+            "total_amount": 0.0
+        },
+        "15/11/2025 LB268 WIDAL TEST": {
+            "quantity": 56.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025 LB124 LIVER FUNCTION TEST (LFT)": {
+            "quantity": 400.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025 LBO70 C-REACTIVE PROTEIN (CRP)": {
+            "quantity": 240.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025 LB123 KIDNEY FUNTION TEST (KFT)": {
+            "quantity": 400.0,
+            "total_amount": 0.0
+        },
+        "17/11/2025 LBOI2 CBC": {
+            "quantity": 240.0,
+            "total_amount": 0.0
+        },
+        "PHARMACY CHARGE": {
+            "quantity": 99931.0,
+            "total_amount": 1.0
+        },
+        "18/11/2025": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "i Willi": {
+            "quantity": 3004.0,
+            "total_amount": 5.0
+        },
+        "3004": {
+            "quantity": 2501002881.0,
+            "total_amount": 11.0
+        },
+        "3004 K24A020525": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "D2372509A": {
+            "quantity": 0.0,
+            "total_amount": 7.0
+        },
+        "3004 BM14D2503A": {
+            "quantity": 0.0,
+            "total_amount": 14.0
+        },
+        "3004 DOS92404A": {
+            "quantity": 0.0,
+            "total_amount": 12.0
+        },
+        "N312292": {
+            "quantity": 0.0,
+            "total_amount": 2.0
+        },
+        "024AM020G": {
+            "quantity": 0.0,
+            "total_amount": 9.0
+        },
+        "3002, T393L619": {
+            "quantity": 0.0,
+            "total_amount": 8.0
+        },
+        ",": {
+            "quantity": 12347.0,
+            "total_amount": 16.0
+        },
+        "PA24114": {
+            "quantity": 0.0,
+            "total_amount": 9.0
+        },
+        "3004 BMT24-004A": {
+            "quantity": 0.0,
+            "total_amount": 6.0
+        },
+        "b": {
+            "quantity": 300.0,
+            "total_amount": 4.0
+        },
+        "LSOD4174": {
+            "quantity": 0.0,
+            "total_amount": 6.0
+        },
+        "9018 PTDS5915": {
+            "quantity": 0.0,
+            "total_amount": 5.0
+        },
+        "3004 CSF": {
+            "quantity": 0.0,
+            "total_amount": 8.0
+        },
+        "102009": {
+            "quantity": 330.0,
+            "total_amount": 3.0
+        },
+        "50": {
+            "quantity": 2080.0,
+            "total_amount": 20.0
+        },
+        "14,00": {
+            "quantity": 21.9,
+            "total_amount": 2.0
+        },
+        "eee peeeeees": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "CANNULA": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "ERIDOT": {
+            "quantity": 2.0,
+            "total_amount": 10.0
+        },
+        "FLUTECH": {
+            "quantity": 2.0,
+            "total_amount": 4.0
+        },
+        "FONEG": {
+            "quantity": 120.0,
+            "total_amount": 0.0
+        },
+        "ESOMAN": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "NEOMOL IV LOOML": {
+            "quantity": 3.0,
+            "total_amount": 0.0
+        },
+        "BUSCOGAST INJ IML": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "DYNAPAR AQ INI": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "MUCAINE MINT GEL": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "ARISTOZY ME": {
+            "quantity": 20.0,
+            "total_amount": 0.0
+        },
+        "APTIVATE SYP": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "OSOLAC": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "N5": {
+            "quantity": 50.0,
+            "total_amount": 0.0
+        },
+        "NS LOOML": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "2ML DS": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "SML DS": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "IOML DS": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "ssce": {
+            "quantity": 1.0,
+            "total_amount": 8.0
+        },
+        "yi": {
+            "quantity": 300.0,
+            "total_amount": 2.0
+        },
+        "Sie oe pe oe Bye ee": {
+            "quantity": 1.0,
+            "total_amount": 3.0
+        },
+        "- eg": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "wise ti": {
+            "quantity": 300.0,
+            "total_amount": 4.0
+        },
+        "aed": {
+            "quantity": 901.0,
+            "total_amount": 8.0
+        },
+        "bea": {
+            "quantity": 300.0,
+            "total_amount": 4.0
+        },
+        "ne iti": {
+            "quantity": 300.0,
+            "total_amount": 4.0
+        },
+        "06/26 ZONEG": {
+            "quantity": 120.0,
+            "total_amount": 0.0
+        },
+        "02/27 EMESET": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "09/26 ESOMAN": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "08/26 NEOMOLIV": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "04/26 DROTIN INJ": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "05/30": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "0430 S5MLDS": {
+            "quantity": 1.0,
+            "total_amount": 5.0
+        },
+        "03/30": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "it": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "Hi": {
+            "quantity": 156.56,
+            "total_amount": 21.92
+        },
+        "eeee cee": {
+            "quantity": 2.0,
+            "total_amount": 6.0
+        },
+        "3004 D2372509A": {
+            "quantity": 0.0,
+            "total_amount": 7.0
+        },
+        "9018 SN312292": {
+            "quantity": 0.0,
+            "total_amount": 2.0
+        },
+        "AM020G": {
+            "quantity": 0.0,
+            "total_amount": 9.0
+        },
+        "9018": {
+            "quantity": 325009.0,
+            "total_amount": 4.0
+        },
+        "3004 PA24114": {
+            "quantity": 0.0,
+            "total_amount": 9.0
+        },
+        "3004 DOBSs2990": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "3004 LSOD4174": {
+            "quantity": 0.0,
+            "total_amount": 6.0
+        },
+        "9018 PTD5915": {
+            "quantity": 0.0,
+            "total_amount": 5.0
+        },
+        "/": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "92": {
+            "quantity": 2.5,
+            "total_amount": 2.5
+        },
+        "33": {
+            "quantity": 6.0,
+            "total_amount": 6.0
+        },
+        "56": {
+            "quantity": 1.0,
+            "total_amount": 21.92
+        },
+        "eee ee ee wee ees SS ee See eee -Saee": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "80": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "60": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "28": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "1 Consultation": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "7 Drugs": {
+            "quantity": 1.0,
+            "total_amount": 3.0
+        },
+        "3 Investigations": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "4 Medical Consumable": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "5 Other Charges": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "6 Procedures": {
+            "quantity": 700.0,
+            "total_amount": 0.0
+        },
+        "7 Room Rent": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "8 Surgery": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "7 -": {
+            "quantity": 3.0,
+            "total_amount": 5.0
+        },
+        "Discount": {
+            "quantity": 3057.0,
+            "total_amount": 0.0
+        },
+        "1 Nishchal": {
+            "quantity": 1.0,
+            "total_amount": 8.0
+        },
+        "2 Nishchal": {
+            "quantity": 1.0,
+            "total_amount": 6.0
+        },
+        "(General Surgery)": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "8/11/25": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "4 WNishchal": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "aa": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "5 DOLENTIA FAST": {
+            "quantity": 1.0,
+            "total_amount": 8.0
+        },
+        "6 MOXYNIC": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "1 MODULAR CUP": {
+            "quantity": 4.0,
+            "total_amount": 3.0
+        },
+        "5MM": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "3 UNCEMENTED FEMORAL STEM": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "SALES AMOUNT": {
+            "quantity": 68500.0,
+            "total_amount": 0.0
+        },
+        "NEOMOL": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "NS EURO": {
+            "quantity": 50.0,
+            "total_amount": 0.0
+        },
+        "SAFE PORT RL": {
+            "quantity": 50.0,
+            "total_amount": 0.0
+        },
+        "FOLEY CATHETER": {
+            "quantity": 1.0,
+            "total_amount": 4.0
+        },
+        "INJ PANTAKIND": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "OMNIVAN": {
+            "quantity": 2.0,
+            "total_amount": 2.0
+        },
+        "VEIN-O LINE": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "P22B05": {
+            "quantity": 0.0,
+            "total_amount": 1.0
+        },
+        "6090625C": {
+            "quantity": 0.0,
+            "total_amount": 2.0
+        },
+        "T383L1109": {
+            "quantity": 0.0,
+            "total_amount": 6.0
+        },
+        "TASO04E003": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "R1RC382": {
+            "quantity": 0.0,
+            "total_amount": 8.0
+        },
+        "V018221": {
+            "quantity": 0.0,
+            "total_amount": 5.0
+        },
+        "A2IQOX049": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "BDWO2ZAIA": {
+            "quantity": 0.0,
+            "total_amount": 1.0
+        },
+        "25E31M8202": {
+            "quantity": 0.0,
+            "total_amount": 4.0
+        },
+        "25618M8203": {
+            "quantity": 0.0,
+            "total_amount": 6.0
+        },
+        "4022425B": {
+            "quantity": 0.0,
+            "total_amount": 1.0
+        },
+        "50241": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "CF323": {
+            "quantity": 0.0,
+            "total_amount": 4.0
+        },
+        "21/10/2025": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "150": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "349": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "574": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "48": {
+            "quantity": 19605.0,
+            "total_amount": 9.0
+        },
+        "89": {
+            "quantity": 1.0,
+            "total_amount": 9.0
+        },
+        "628": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "52": {
+            "quantity": 1966.0,
+            "total_amount": 5.0
+        },
+        "46": {
+            "quantity": 4.0,
+            "total_amount": 4.0
+        },
+        "184": {
+            "quantity": 2.0,
+            "total_amount": 0.0
+        },
+        "198": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "95": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "347": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "22/10/2025": {
+            "quantity": 0.0,
+            "total_amount": 5.0
+        },
+        "CEZOSAL": {
+            "quantity": 2.0,
+            "total_amount": 10.0
+        },
+        "27": {
+            "quantity": 28.0,
+            "total_amount": 628.0
+        },
+        "3 PANTAKIND": {
+            "quantity": 4.0,
+            "total_amount": 0.0
+        },
+        "4 JUSTIN-AO INJ": {
+            "quantity": 3004906.0,
+            "total_amount": 9.0
+        },
+        "5 PROPORT NS": {
+            "quantity": 10.0,
+            "total_amount": 0.0
+        },
+        "6 OMNIVAN": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        ") omnivan": {
+            "quantity": 1.0,
+            "total_amount": 2.0
+        },
+        "3) PREP RAZOR MEDI NORM - - AEOS24": {
+            "quantity": 0.0,
+            "total_amount": 4.0
+        },
+        "10 TRULON SN": {
+            "quantity": 333.0,
+            "total_amount": 6.0
+        },
+        "7 HIV": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "21-10-2025": {
+            "quantity": 0.0,
+            "total_amount": 27.0
+        },
+        "28-10-2025": {
+            "quantity": 2.0,
+            "total_amount": 14.0
+        },
+        "28-1F": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "Due Amount": {
+            "quantity": 0.0,
+            "total_amount": 0.0
+        },
+        "LOBIMATR EM TAL": {
+            "quantity": 1.0,
+            "total_amount": 0.0
+        },
+        "Maes Poul": {
+            "quantity": 2.0,
+            "total_amount": 7.0
+        },
+        "ft j i": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "f": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "A": {
+            "quantity": 1.0,
+            "total_amount": 1.0
+        },
+        "VERY": {
+            "quantity": 44.0,
+            "total_amount": 8.0
+        },
+        "cosmetics act": {
+            "quantity": 194.0,
+            "total_amount": 0.0
+        },
+        "ccccccccccccscesescesceesscscecesssceescsasesceeneeesssnneessacegenseeensenneseseeees es": {
+            "quantity": 151200.0,
+            "total_amount": 0.0
+        },
+        "a6nan08": {
+            "quantity": 5.0,
+            "total_amount": 6.0
+        },
+        "per annum will be charged if bill is not paid within": {
+            "quantity": 1.0,
+            "total_amount": 7.0
+        },
+        "26": {
+            "quantity": 3928.0,
+            "total_amount": 2.0
+        },
+        "32": {
+            "quantity": 1963.0,
+            "total_amount": 1.0
+        },
+        "47": {
+            "quantity": 1963.0,
+            "total_amount": 1.0
+        },
+        "44": {
+            "quantity": 1964.0,
+            "total_amount": 1.0
+        },
+        "o1": {
+            "quantity": 1964.0,
+            "total_amount": 4.0
+        },
+        "oo": {
+            "quantity": 1964.0,
+            "total_amount": 4.0
+        },
+        "o4": {
+            "quantity": 1963.0,
+            "total_amount": 1.0
+        }
+    }
+}

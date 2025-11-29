@@ -1,0 +1,170 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "26-Oct-2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "Service Amount",
+            "quantity": "",
+            "rate": "2,209,",
+            "amount": "763.00"
+        },
+        {
+            "description": "Service Amount After Discount (Bill of Suppl",
+            "quantity": "",
+            "rate": "2,209,",
+            "amount": "763.00"
+        },
+        {
+            "description": "INT2043376",
+            "quantity": "",
+            "rate": "2,209,763.0",
+            "amount": "0"
+        },
+        {
+            "description": "Total Payable Amount",
+            "quantity": "",
+            "rate": "2,209,763.0",
+            "amount": "0"
+        },
+        {
+            "description": "Authorization Amount(1)",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "To Pay",
+            "quantity": "",
+            "rate": "2,209,763.0",
+            "amount": "0"
+        },
+        {
+            "description": "To be Refund",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Net Payable",
+            "quantity": "",
+            "rate": "2,209,",
+            "amount": "763.00"
+        },
+        {
+            "description": "Outstanding Amount",
+            "quantity": "",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "Time of the entry only Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "1",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "2",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "3",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "4",
+            "quantity": "1965",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "5",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "6",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "Y",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "a",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "9",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "11",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "12",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": null,
+    "taxes": [],
+    "computed_total": 2346.0
+}
