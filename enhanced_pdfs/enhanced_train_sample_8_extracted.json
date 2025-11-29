@@ -1,0 +1,32 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "ccccccccccccscesescesceesscscecesssceescsasesceeneeesssnneessacegenseeensenneseseeees es",
+            "quantity": "151200",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "a6nan08",
+            "quantity": "5",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "per annum will be charged if bill is not paid within",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": null,
+    "taxes": [],
+    "computed_total": 14.0
+}

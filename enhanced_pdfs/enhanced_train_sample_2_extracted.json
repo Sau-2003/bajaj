@@ -1,0 +1,716 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "i Willi",
+            "quantity": "3004",
+            "rate": "1382",
+            "amount": "5"
+        },
+        {
+            "description": "3004",
+            "quantity": "600",
+            "rate": "0",
+            "amount": "4"
+        },
+        {
+            "description": "3004 K24A020525",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "D2372509A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "3004 BM14D2503A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "3004 DOS92404A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "N312292",
+            "quantity": "0",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "024AM020G",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "3002, T393L619",
+            "quantity": "0",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": ",",
+            "quantity": "9018",
+            "rate": "0325009",
+            "amount": "04"
+        },
+        {
+            "description": "PA24114",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "3004 BMT24-004A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": ",",
+            "quantity": "3004",
+            "rate": "252008",
+            "amount": "7"
+        },
+        {
+            "description": "4",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "4",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "4",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "b",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "LSOD4174",
+            "quantity": "0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "9018 PTDS5915",
+            "quantity": "0",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "3004 CSF",
+            "quantity": "0",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "102009",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "50",
+            "quantity": "58.0",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "00",
+            "quantity": "703.7",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "14,00",
+            "quantity": "21.9",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "eee peeeeees",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "CANNULA",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "1",
+            "quantity": "3",
+            "rate": "5,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1",
+            "quantity": "120.00",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "ERIDOT",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "5"
+        },
+        {
+            "description": "FLUTECH",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "FONEG",
+            "quantity": "120",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "ESOMAN",
+            "quantity": "4",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NEOMOL IV LOOML",
+            "quantity": "3",
+            "rate": "522.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "BUSCOGAST INJ IML",
+            "quantity": "2",
+            "rate": "12.80",
+            "amount": "0.00"
+        },
+        {
+            "description": "DYNAPAR AQ INI",
+            "quantity": "2",
+            "rate": "43.60",
+            "amount": "0.00"
+        },
+        {
+            "description": "1",
+            "quantity": "1700.00",
+            "rate": "0.0",
+            "amount": "0"
+        },
+        {
+            "description": "MUCAINE MINT GEL",
+            "quantity": "20",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ARISTOZY ME",
+            "quantity": "20",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "APTIVATE SYP",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "OSOLAC",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "N5",
+            "quantity": "50",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NS LOOML",
+            "quantity": "4",
+            "rate": "47.0",
+            "amount": "0"
+        },
+        {
+            "description": "2ML DS",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "SML DS",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "IOML DS",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "50",
+            "quantity": "58.0",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "00",
+            "quantity": "703.7",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "21.9",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "ssce",
+            "quantity": "",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "1",
+            "quantity": "56",
+            "rate": "6,0",
+            "amount": "0"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "yi",
+            "quantity": "300",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "Sie oe pe oe Bye ee",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "- eg",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "4",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "wise ti",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "aed",
+            "quantity": "901",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "bea",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "ne iti",
+            "quantity": "300",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "ERIDOT",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "5"
+        },
+        {
+            "description": "FLUTECH",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "06/26 ZONEG",
+            "quantity": "120",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "02/27 EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "09/26 ESOMAN",
+            "quantity": "4",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "08/26 NEOMOLIV",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "04/26 DROTIN INJ",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "05/30",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "0430 S5MLDS",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "03/30",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "i",
+            "quantity": "",
+            "rate": "0,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "i",
+            "quantity": "757.62",
+            "rate": "2.50",
+            "amount": "43.94"
+        },
+        {
+            "description": "i",
+            "quantity": "412.37",
+            "rate": "6.00",
+            "amount": "684.74"
+        },
+        {
+            "description": "it",
+            "quantity": "0.0",
+            "rate": "9.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Hi",
+            "quantity": "156.56",
+            "rate": "14.00",
+            "amount": "21.92"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "eeee cee",
+            "quantity": "2",
+            "rate": "6",
+            "amount": "6"
+        },
+        {
+            "description": "3004 D2372509A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "3004 BM14D2503A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "3004 DOS92404A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "9018 SN312292",
+            "quantity": "0",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "AM020G",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": ",",
+            "quantity": "300",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "9018",
+            "quantity": "0325009",
+            "rate": "0",
+            "amount": "4"
+        },
+        {
+            "description": "3004 PA24114",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "3004 BMT24-004A",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "3004 DOBSs2990",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "3004",
+            "quantity": "2501002281",
+            "rate": "0",
+            "amount": "7"
+        },
+        {
+            "description": "3004 LSOD4174",
+            "quantity": "0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "9018 PTD5915",
+            "quantity": "0",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "3004 CSF",
+            "quantity": "0",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "102009",
+            "quantity": "0330",
+            "rate": "1",
+            "amount": "0"
+        },
+        {
+            "description": "/",
+            "quantity": "0.00",
+            "rate": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "92",
+            "quantity": "2.50",
+            "rate": "18.04",
+            "amount": "2.50"
+        },
+        {
+            "description": "33",
+            "quantity": "6.00",
+            "rate": "680.90",
+            "amount": "6.00"
+        },
+        {
+            "description": "00",
+            "quantity": "9.00",
+            "rate": "0.00",
+            "amount": "9.00"
+        },
+        {
+            "description": "56",
+            "quantity": "1",
+            "rate": "4,00",
+            "amount": "21.92"
+        },
+        {
+            "description": "eee ee ee wee ees SS ee See eee -Saee",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "35",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "80",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "60",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "28",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "20",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        }
+    ],
+    "subtotal_extracted": "48226.55",
+    "total_extracted": "48226.55",
+    "taxes": [],
+    "computed_total": 1105.02
+}

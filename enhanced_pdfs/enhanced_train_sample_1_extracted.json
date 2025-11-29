@@ -1,0 +1,284 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "l,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "3,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "3",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "PATHOLOGY",
+            "quantity": "99931",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "3,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "2Dechocardiography",
+            "quantity": "1180.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "USG Whole Abdomen Including Pelvis and",
+            "quantity": "640.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "X Ray Chest Lateral (one film)",
+            "quantity": "184.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "BED CHARGE GENERAL WARD",
+            "quantity": "1500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "BED CHARGE GENERAL WARD",
+            "quantity": "1500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "BED CHARGE GENERAL WARD",
+            "quantity": "1500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "BED CHARGE GENERAL WARD",
+            "quantity": "1500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Consultation for Inpatients",
+            "quantity": "350.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Consultation for Inpatients",
+            "quantity": "33",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "Consultation for Inpatients",
+            "quantity": "350.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Consultation for Inpatients",
+            "quantity": "350.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "SENSITIVITY",
+            "quantity": "368.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "BLOOD SUGAR RANDOM (RBS)",
+            "quantity": "32.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "CBC",
+            "quantity": "240.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "15/11/2025 LB270 DENGUE IGM AND IGG",
+            "quantity": "640.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "18/11/2025 LB269 DENGUE NS1I ANTIGEN",
+            "quantity": "320.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "RATE)",
+            "quantity": "80.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "17,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "15/11/2025 LB042 HBsAg",
+            "quantity": "24",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LB043 HEPATITIS C VIRUS (HCV)",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LBo44 HIV",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "Il,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "15/11/2025 LB125 LIPID PROFILE",
+            "quantity": "392.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LB124 LIVER FUNCTION TEST (LFT)",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LBO26 MP ANTIGEN (MALARIA RAPID CARD",
+            "quantity": "232.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LB248 PROCALCITONIN",
+            "quantity": "2070.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LB123 RFT/KIDNEY FUNCTION TEST(kft)",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LBOss SERUM AMYLASE",
+            "quantity": "240.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LBO89 SERUM LIPASE",
+            "quantity": "320.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LB127 SERUM VITAMIN B-I2 LEVEL",
+            "quantity": "480.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LB263 TYPHIDOT IgG IgM",
+            "quantity": "320.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LBIS4 VITAMIN D3 ASSAY",
+            "quantity": "800.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "15/11/2025 LB268 WIDAL TEST",
+            "quantity": "56.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "17/11/2025 LB124 LIVER FUNCTION TEST (LFT)",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "17/11/2025 LBO70 C-REACTIVE PROTEIN (CRP)",
+            "quantity": "240.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "17/11/2025 LB123 KIDNEY FUNTION TEST (KFT)",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "17/11/2025 LBOI2 CBC",
+            "quantity": "240.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "PHARMACY CHARGE",
+            "quantity": "99931",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "18/11/2025",
+            "quantity": "",
+            "rate": "",
+            "amount": "0"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": "73420.25",
+    "taxes": [],
+    "computed_total": 43.0
+}

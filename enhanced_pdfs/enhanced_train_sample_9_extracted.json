@@ -1,0 +1,134 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "23",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "26",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "26",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "32",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "36",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "a7",
+            "quantity": "1965",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "40",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "47",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "44",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "48",
+            "quantity": "19604",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "50",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "o1",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "52",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "oo",
+            "quantity": "1964",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "o4",
+            "quantity": "1963",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "6"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": null,
+    "taxes": [],
+    "computed_total": 48.0
+}

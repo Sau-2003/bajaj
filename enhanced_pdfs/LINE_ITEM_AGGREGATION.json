@@ -1,0 +1,5150 @@
+{
+    "--- page": {
+        "total_quantity": 50.0,
+        "total_amount": 142.0,
+        "invoice_count": 15,
+        "average_rate": null
+    },
+    "26-oct-2025": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "page": {
+        "total_quantity": 17.0,
+        "total_amount": 50.0,
+        "invoice_count": 5,
+        "average_rate": null
+    },
+    "service amount": {
+        "total_quantity": 1.0,
+        "total_amount": 763.0,
+        "invoice_count": 1,
+        "average_rate": 2209.0
+    },
+    "service amount after discount (bill of suppl": {
+        "total_quantity": 1.0,
+        "total_amount": 763.0,
+        "invoice_count": 1,
+        "average_rate": 2209.0
+    },
+    "int2043376": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2209763.0
+    },
+    "total payable amount": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2209763.0
+    },
+    "authorization amount(1)": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "to pay": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2209763.0
+    },
+    "to be refund": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "net payable": {
+        "total_quantity": 1.0,
+        "total_amount": 763.0,
+        "invoice_count": 1,
+        "average_rate": 2209.0
+    },
+    "outstanding amount": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "time of the entry only page": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1": {
+        "total_quantity": 3010597.84,
+        "total_amount": 2414.35,
+        "invoice_count": 5,
+        "average_rate": 2041.06
+    },
+    "2": {
+        "total_quantity": 3006166.0,
+        "total_amount": 10.0,
+        "invoice_count": 2,
+        "average_rate": 46.4
+    },
+    "3": {
+        "total_quantity": 1981.7,
+        "total_amount": 23.0,
+        "invoice_count": 5,
+        "average_rate": 6.0
+    },
+    "4": {
+        "total_quantity": 3165.0,
+        "total_amount": 20.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "5": {
+        "total_quantity": 1966.0,
+        "total_amount": 5.0,
+        "invoice_count": 3,
+        "average_rate": 113.0
+    },
+    "6": {
+        "total_quantity": 1964.0,
+        "total_amount": 13.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "y": {
+        "total_quantity": 1963.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "a": {
+        "total_quantity": 1966.0,
+        "total_amount": 3.0,
+        "invoice_count": 3,
+        "average_rate": null
+    },
+    "9": {
+        "total_quantity": 2043.0,
+        "total_amount": 1.0,
+        "invoice_count": 2,
+        "average_rate": 0.0
+    },
+    "11": {
+        "total_quantity": 1964.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "12": {
+        "total_quantity": 19413996.0,
+        "total_amount": 12.0,
+        "invoice_count": 3,
+        "average_rate": 24.0
+    },
+    "04/11/2025": {
+        "total_quantity": 315404387.0,
+        "total_amount": 35.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "blood sugar by glucometer": {
+        "total_quantity": 24.0,
+        "total_amount": 140.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "lumbar puncture": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "total": {
+        "total_quantity": 2.0,
+        "total_amount": 2070.0,
+        "invoice_count": 1,
+        "average_rate": 3635.0
+    },
+    "vascular claris non stick forcep": {
+        "total_quantity": 0.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "warming mattress": {
+        "total_quantity": 0.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "tushar parikh)": {
+        "total_quantity": 2.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "blood grouping": {
+        "total_quantity": 0.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "blood grouping - nat": {
+        "total_quantity": 0.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "fresh frozen plasma (without replace) -": {
+        "total_quantity": 0.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "printed on": {
+        "total_quantity": 6.0,
+        "total_amount": 54.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "advanced ventilation (bear": {
+        "total_quantity": 525.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "o7/1": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4 no": {
+        "total_quantity": 5.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 3696.0
+    },
+    "1 no": {
+        "total_quantity": 4391.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2000.0
+    },
+    "ino": {
+        "total_quantity": 261.0,
+        "total_amount": 10.0,
+        "invoice_count": 1,
+        "average_rate": 1535.0
+    },
+    "1no": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 3000.0
+    },
+    "no": {
+        "total_quantity": 1410.8,
+        "total_amount": 14.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4no": {
+        "total_quantity": 15.9,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 1320.0
+    },
+    "3 no": {
+        "total_quantity": 990.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2 no": {
+        "total_quantity": 660.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "baby massage": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ip": {
+        "total_quantity": 102.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "amitax": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "dextrose": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "kenadion": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "aminoven infant": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "smoflipid": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "-": {
+        "total_quantity": 2062606.0,
+        "total_amount": 138.05,
+        "invoice_count": 5,
+        "average_rate": 5.0
+    },
+    "03/11/2025": {
+        "total_quantity": 3840777.0,
+        "total_amount": 33.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "05/11/2025": {
+        "total_quantity": 250725396.0,
+        "total_amount": 37.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "06/11/2025": {
+        "total_quantity": 3858553.0,
+        "total_amount": 28.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "bottle": {
+        "total_quantity": 282.3,
+        "total_amount": 26.0,
+        "invoice_count": 1,
+        "average_rate": 1098.0
+    },
+    "1 bottle": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 49.0
+    },
+    "1 vial": {
+        "total_quantity": 72.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2 bottle": {
+        "total_quantity": 7.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ibottle": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1098.0
+    },
+    "1vial": {
+        "total_quantity": 672.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "polyvol pro": {
+        "total_quantity": 30.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "vein o line s": {
+        "total_quantity": 30.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "dispo syringe": {
+        "total_quantity": 6.0,
+        "total_amount": 12.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "syringe w/o needle": {
+        "total_quantity": 6.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "syringe w/o need": {
+        "total_quantity": 5.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sterile gloves": {
+        "total_quantity": 5.0,
+        "total_amount": 29.0,
+        "invoice_count": 1,
+        "average_rate": 6.0
+    },
+    "03/11/2025 g23f": {
+        "total_quantity": 11005.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sno": {
+        "total_quantity": 2450.6,
+        "total_amount": 27.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4ano": {
+        "total_quantity": 96.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2no": {
+        "total_quantity": 28.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "needchmd)": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "10/11/2025": {
+        "total_quantity": 250502.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "23": {
+        "total_quantity": 1965.0,
+        "total_amount": 2.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "infant feeding tube": {
+        "total_quantity": 63.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "8(roms) ifts": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "face mask sterile regal-": {
+        "total_quantity": 8.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ene": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "tegaderm": {
+        "total_quantity": 324.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "gloves": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "examination nitrile gloves": {
+        "total_quantity": 32.3,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "10/11/2025 no825 jul-30": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "14899": {
+        "total_quantity": 196.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 5.0
+    },
+    "polymed": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "10/11/2025 g25f110053 may-30": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "rhr": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "8 (top)": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "blood lancets(easy care) blan": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "friends under pad care": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "glycerine": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sgs7) gloves": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "intracath no -26 polymed": {
+        "total_quantity": 508.9,
+        "total_amount": 17.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "nom": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "con": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "vein o line si0cm (romson)": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "specican": {
+        "total_quantity": 7.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/11/2025": {
+        "total_quantity": 1101304.0,
+        "total_amount": 45.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "12/11/2025": {
+        "total_quantity": 672759.0,
+        "total_amount": 11.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ct scan charges": {
+        "total_quantity": 9891.0,
+        "total_amount": 12.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "inj-emeset-4mg-2ml": {
+        "total_quantity": 6.0,
+        "total_amount": 30.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "inj-kabimol-freeflex-100ml": {
+        "total_quantity": 64.0,
+        "total_amount": 16.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "iv-cannula-venflon-18g": {
+        "total_quantity": 5571989.0,
+        "total_amount": 48.4,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "pee": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "printed by an": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "bill date -": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "19-nov-2025": {
+        "total_quantity": 113.9,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "34-nov-2025": {
+        "total_quantity": 13.1,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "b17a101": {
+        "total_quantity": 1.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": 81.3
+    },
+    "iv-dressing-intra-shield- g2410109": {
+        "total_quantity": 5.0,
+        "total_amount": 35.0,
+        "invoice_count": 1,
+        "average_rate": 13.0
+    },
+    "-1000ml-non-": {
+        "total_quantity": 3367084.0,
+        "total_amount": 63.24,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "iv-fluid-rl-so00ml-non-pvc-": {
+        "total_quantity": 227662.0,
+        "total_amount": 16.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "syringe-romojet-romson-21g- g25h020": {
+        "total_quantity": 7.0,
+        "total_amount": 14.0,
+        "invoice_count": 1,
+        "average_rate": 44.8
+    },
+    "inj-biotax-1gm fa00148": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 42.6
+    },
+    "inj-pantocid-iv-40mg npbooig": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 53.8
+    },
+    "-500ml-non-": {
+        "total_quantity": 1068529.0,
+        "total_amount": 37.24,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "ipd consumable charges": {
+        "total_quantity": 48906.0,
+        "total_amount": 59.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sytiw2500": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "inj-amikamac-250mg": {
+        "total_quantity": 18253290.0,
+        "total_amount": 122.1,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "-so0ml-non-": {
+        "total_quantity": 4107854.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "-sooml-non-": {
+        "total_quantity": 2157086.0,
+        "total_amount": 81.6,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "48635/pis/25n": {
+        "total_quantity": 1.0,
+        "total_amount": 3937.64,
+        "invoice_count": 1,
+        "average_rate": 3937.64
+    },
+    "so ynw250 i": {
+        "total_quantity": 66.1,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "inj-rantac-50mg-2ml xir22412": {
+        "total_quantity": 6.0,
+        "total_amount": 19.0,
+        "invoice_count": 1,
+        "average_rate": 7.84
+    },
+    "5gm": {
+        "total_quantity": 73009640.0,
+        "total_amount": 74545.22,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "mouth-wash-hexidine-160ml l25130": {
+        "total_quantity": 1.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 136.3
+    },
+    "needle-dispo-": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "lancet-ultra-safety": {
+        "total_quantity": 1002820.0,
+        "total_amount": 86.64,
+        "invoice_count": 1,
+        "average_rate": 5.5
+    },
+    "isens-glucostrip xdo2lls": {
+        "total_quantity": 3.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 42.0
+    },
+    "inj-amikamac-500mg": {
+        "total_quantity": 38331381.0,
+        "total_amount": 240.44,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "-100ml-non-": {
+        "total_quantity": 4330996.0,
+        "total_amount": 216.1,
+        "invoice_count": 1,
+        "average_rate": 5.0
+    },
+    "iv-fluid-rl-so0ml-non- pvc-": {
+        "total_quantity": 113831.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "syringe- romojet-romson-21g- g25h020": {
+        "total_quantity": 5.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 96.0
+    },
+    "underpad-dignity-mattey- g2511400": {
+        "total_quantity": 5.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 92.5
+    },
+    "spirometer-respirometer g25g040": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 132.0
+    },
+    "extension-set-q-syte-three-": {
+        "total_quantity": 5062067.0,
+        "total_amount": 300.42,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "48758/pis/25n": {
+        "total_quantity": 1.0,
+        "total_amount": 8482.12,
+        "invoice_count": 1,
+        "average_rate": 8482.12
+    },
+    "bandage-crepe-6inch": {
+        "total_quantity": 33.0,
+        "total_amount": 78.75,
+        "invoice_count": 1,
+        "average_rate": 1.5
+    },
+    "catheter-uretheral-k-90": {
+        "total_quantity": 2507288.0,
+        "total_amount": 8.15,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "cover-c-arm-d306": {
+        "total_quantity": 250.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "gloves-orthopaedic-8no": {
+        "total_quantity": 25070015.0,
+        "total_amount": 112.88,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "gloves-powder-free-7no-": {
+        "total_quantity": 25040115.0,
+        "total_amount": 212.8,
+        "invoice_count": 1,
+        "average_rate": 4.0
+    },
+    "25h3015": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 42.0
+    },
+    "printed by - on": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "24-nov-2025": {
+        "total_quantity": 54.3,
+        "total_amount": 12.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "gloves-surgical- -7no": {
+        "total_quantity": 253207.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "s-25-1483-": {
+        "total_quantity": 2.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 906.0
+    },
+    "hiv-kit-surgical-dispo kt2410": {
+        "total_quantity": 3.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 11812.0
+    },
+    "inj-termin-300mg-10ml v307258": {
+        "total_quantity": 1.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 35.5
+    },
+    "inj-trenaxa-soomg-sml tna2518": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": 73.2
+    },
+    "iv-cannula-venflon-20g": {
+        "total_quantity": 5209519.0,
+        "total_amount": 40.69,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "iv-set-novofusion": {
+        "total_quantity": 6188925.0,
+        "total_amount": 241.88,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "needle-dispo-18no-hmd": {
+        "total_quantity": 3644.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2501025 i": {
+        "total_quantity": 91.6,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pop-bsn-gypsona-6inch": {
+        "total_quantity": 2.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "uni/25/0": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 210.0
+    },
+    "suction-set-yankaur-vaccu- g25e010": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": 108.9
+    },
+    "suture-centicryl-2-0-2317 ce277": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 644.0
+    },
+    "cfo88": {
+        "total_quantity": 3.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 1459.6
+    },
+    "syringe-dispo-10ml-hmd": {
+        "total_quantity": 54010.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "syringe-dispo-2ml-hmd": {
+        "total_quantity": 52402.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "syringe-dispo-soml-hmd": {
+        "total_quantity": 52050.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "syringe-dispo-5ml-hmd": {
+        "total_quantity": 53205.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sponge-radioactive-10x10- gs-70": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 180.0
+    },
+    "inj-ropin-heavy": {
+        "total_quantity": 1984006.0,
+        "total_amount": 132.15,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "iv-dressing-intra-shield- g2410107": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": 13.9
+    },
+    "suture-centisorb-pnw-2382-2- ce2117": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 749.0
+    },
+    "iv-fluid-rl-1000ml-non-pvc": {
+        "total_quantity": 1252829.0,
+        "total_amount": 106.08,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "48774/pis/25n es": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 2035.1
+    },
+    "yiiw250": {
+        "total_quantity": 3.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 66.1
+    },
+    "iv-set-trans-flow g25h010": {
+        "total_quantity": 2.0,
+        "total_amount": 10.0,
+        "invoice_count": 1,
+        "average_rate": 19.0
+    },
+    "isens-glucostrip xdos5ll6": {
+        "total_quantity": 5.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 42.0
+    },
+    "inj-amikamac-s00mg": {
+        "total_quantity": 18253039.0,
+        "total_amount": 45.72,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "g2511400": {
+        "total_quantity": 9.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 49.33
+    },
+    "48795/pis/25n": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 416.3
+    },
+    "inj-tramasure-100mg-2ml e31y021": {
+        "total_quantity": 7.0,
+        "total_amount": 18.0,
+        "invoice_count": 1,
+        "average_rate": 43.95
+    },
+    "mask-nebuliser-adult g25f040": {
+        "total_quantity": 2.0,
+        "total_amount": 10.0,
+        "invoice_count": 1,
+        "average_rate": 56.6
+    },
+    "respules-duolin-3ml": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "-sooml-": {
+        "total_quantity": 1018221.0,
+        "total_amount": 40.57,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "respules-budecort-1mg": {
+        "total_quantity": 2.0,
+        "total_amount": 10.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "25h7087 i": {
+        "total_quantity": 44.6,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "printed by on": {
+        "total_quantity": 4.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "94-now-3075": {
+        "total_quantity": 15.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1y-nov-2025": {
+        "total_quantity": 21.3,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "7": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "dressing-opsite-post-op-": {
+        "total_quantity": 202508.0,
+        "total_amount": 905.0,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "bt-set-romsons g25a020": {
+        "total_quantity": 3.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 29.55
+    },
+    "suppository-gerbisa-10mg tao498a": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": 80.0
+    },
+    "implant-twin-lock-bcp-screw-": {
+        "total_quantity": 7011062.0,
+        "total_amount": 30800.0,
+        "invoice_count": 1,
+        "average_rate": 8.0
+    },
+    "implant-washer--tit": {
+        "total_quantity": 408962.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "implant-twin-lock-bcp-vero-": {
+        "total_quantity": 1078825.0,
+        "total_amount": 19600.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "48973/pis/25n": {
+        "total_quantity": 1.0,
+        "total_amount": 40.31,
+        "invoice_count": 1,
+        "average_rate": 40.31
+    },
+    "g25g6040": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 40.3
+    },
+    "inj-kabimol-freeflex-looml": {
+        "total_quantity": 8.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "yitw250": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 44.0
+    },
+    "needle-dispo-16no g25e010": {
+        "total_quantity": 4.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 6.0
+    },
+    "syringe-romojet-romson-24g- g25b020": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 21.0
+    },
+    "underpad-dignity-mattey-": {
+        "total_quantity": 62511400.0,
+        "total_amount": 55.52,
+        "invoice_count": 1,
+        "average_rate": 3.0
+    },
+    "-yiiw250": {
+        "total_quantity": 3.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 66.1
+    },
+    "inj-rantac-somg-2ml xir22412": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 13.6
+    },
+    "tv-cannula-venflon-20g": {
+        "total_quantity": 9217743.0,
+        "total_amount": 40.69,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "isens-glucostrip xdo2ll5": {
+        "total_quantity": 5.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 40.0
+    },
+    "24-nov-3025": {
+        "total_quantity": 15.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "- tooml-non-": {
+        "total_quantity": 623.0,
+        "total_amount": 41266.0,
+        "invoice_count": 1,
+        "average_rate": 6.0
+    },
+    "49218/pis/25n": {
+        "total_quantity": 1.0,
+        "total_amount": 56.47,
+        "invoice_count": 1,
+        "average_rate": 56.47
+    },
+    "5065445": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": 43.0
+    },
+    "tf": {
+        "total_quantity": 20.5,
+        "total_amount": 1.0,
+        "invoice_count": 2,
+        "average_rate": 19.5
+    },
+    "inj-emeset-4mg-2ml -5a00162": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": 25.4
+    },
+    "6712/prt/25n -1": {
+        "total_quantity": 475.3,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ue inj-emeset-4mg-2ml": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "31y021": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": 25.1
+    },
+    "5217743,": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 40.6
+    },
+    "g25e010": {
+        "total_quantity": 6.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 9.4
+    },
+    "10": {
+        "total_quantity": 776.7,
+        "total_amount": 3.0,
+        "invoice_count": 2,
+        "average_rate": 800.0
+    },
+    "tv-fluid-rl-500ml-non-pvc-": {
+        "total_quantity": 113831.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "-500ml-": {
+        "total_quantity": 1018221.0,
+        "total_amount": 40.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "tape-paper-micropore-3inch r072505 i": {
+        "total_quantity": 444.8,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "jindal pharmacy charges i": {
+        "total_quantity": 1.0,
+        "total_amount": 2950.0,
+        "invoice_count": 1,
+        "average_rate": 2950.0
+    },
+    "49453/drg/25n": {
+        "total_quantity": 1.0,
+        "total_amount": 2820.0,
+        "invoice_count": 1,
+        "average_rate": 2820.0
+    },
+    "205": {
+        "total_quantity": 250.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "bleeding time x ho15": {
+        "total_quantity": 45.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cbc complete blood count x v021": {
+        "total_quantity": 280.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "clotting time x h016": {
+        "total_quantity": 45.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "complete abg x vwm9": {
+        "total_quantity": 650.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "204": {
+        "total_quantity": 440.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "203": {
+        "total_quantity": 260.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "liver function test lft x v206": {
+        "total_quantity": 620.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pti x h131": {
+        "total_quantity": 230.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "laboratory charges": {
+        "total_quantity": 9932.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "hb x hoo1": {
+        "total_quantity": 45.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pcv x h002": {
+        "total_quantity": 60.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "49836/drg/25n": {
+        "total_quantity": 1.0,
+        "total_amount": 105.0,
+        "invoice_count": 1,
+        "average_rate": 105.0
+    },
+    "printed by, on": {
+        "total_quantity": 3.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "24/1": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "18/7": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "24/11/2025": {
+        "total_quantity": 33.8,
+        "total_amount": 138.0,
+        "invoice_count": 2,
+        "average_rate": 16.0
+    },
+    "1 icu room rent charges": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1 ip registration fees": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "jai nivas - nephrologist fees": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "gowtham consultation fees": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "mohan kannan consultation fees": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "raj bharath consulatation fees": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "5 mahendra raghavan consultation fees": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sensitivity": {
+        "total_quantity": 369.0,
+        "total_amount": 9.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "19/11/2025": {
+        "total_quantity": 2.0,
+        "total_amount": 16.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "arterial blood gas analysis)": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "9 procalcitonin -pct": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cl)": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "7 c-reactive protein (crp)": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "8 hbaic (glycosylated hemoglobin)": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sensitivity - aerobic": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "(arterial blood gas analysis)": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11 renal function test (rft)": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "12 complete blood count": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "20/11/2025": {
+        "total_quantity": 3.0,
+        "total_amount": 15.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "14 complete blood count": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15 renal function test (aft)": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "16 smear study": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cbg": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "18 c-reactive protein (crp)": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "19 uric acid - serum": {
+        "total_quantity": 221.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "monitor charges": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "oxygen charges": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "monitor gharges": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "22/11/2025": {
+        "total_quantity": 4.0,
+        "total_amount": 31.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "23/11/2025": {
+        "total_quantity": 0.0,
+        "total_amount": 12.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "24/17/2025": {
+        "total_quantity": 2.0,
+        "total_amount": 9.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "19/14/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "21/11/2025": {
+        "total_quantity": 4.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4/11/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "e4/1": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "00": {
+        "total_quantity": 2800.3,
+        "total_amount": 65.0,
+        "invoice_count": 4,
+        "average_rate": 1201.0
+    },
+    "page mor": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "diet charges ,": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1 echo screening": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2 lap monitor camera light used": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "-24/11/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "mrd charges": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1 to": {
+        "total_quantity": 2088.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "z": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4 pope t2025": {
+        "total_quantity": 0.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ts)": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "8 tet": {
+        "total_quantity": 202.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4 foam": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "in tom": {
+        "total_quantity": 1202.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "13": {
+        "total_quantity": 215.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": 12025.0
+    },
+    "14": {
+        "total_quantity": 191.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 17202.0
+    },
+    "15": {
+        "total_quantity": 2.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "17": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "18": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ig": {
+        "total_quantity": 191.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "a0": {
+        "total_quantity": 1574172025.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "21": {
+        "total_quantity": 2026.0,
+        "total_amount": 18.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "22": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2d (o11": {
+        "total_quantity": 2025.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "24": {
+        "total_quantity": 191.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 12025.0
+    },
+    "25 tof": {
+        "total_quantity": 12026.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "25 ts": {
+        "total_quantity": 12.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ar tat": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ao": {
+        "total_quantity": 7375.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 12025.0
+    },
+    "ou": {
+        "total_quantity": 19.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "a0 ts": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "at": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "t2": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "a3": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "34": {
+        "total_quantity": 181.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 12025.0
+    },
+    "35": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "36": {
+        "total_quantity": 1965.0,
+        "total_amount": 3.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "a7": {
+        "total_quantity": 1924173990.0,
+        "total_amount": 59.0,
+        "invoice_count": 2,
+        "average_rate": 0.0
+    },
+    "38": {
+        "total_quantity": 1955.0,
+        "total_amount": 91.0,
+        "invoice_count": 1,
+        "average_rate": 172025.0
+    },
+    "a9": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "40": {
+        "total_quantity": 1965.0,
+        "total_amount": 10.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "af to": {
+        "total_quantity": 12025.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "ag te vene5": {
+        "total_quantity": 0.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4g": {
+        "total_quantity": 7.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "444 tort": {
+        "total_quantity": 2025.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "1m v2025 of": {
+        "total_quantity": 4.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "66 to/4": {
+        "total_quantity": 12025.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "47 fsf": {
+        "total_quantity": 12025.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 193.0
+    },
+    "l of": {
+        "total_quantity": 1.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "maxon": {
+        "total_quantity": 2.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "foleys gatheter": {
+        "total_quantity": 1.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "efipres (ephedrine)": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sterile water inu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "spinal needle": {
+        "total_quantity": 2.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ecg leeds -": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "surgicare gloves": {
+        "total_quantity": 2.0,
+        "total_amount": 12.0,
+        "invoice_count": 1,
+        "average_rate": 7.0
+    },
+    "betadine": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "gauze swab": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "lox": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "jete mat": {
+        "total_quantity": 79.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "oxygen mask adult(item": {
+        "total_quantity": 123.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "nipro": {
+        "total_quantity": 4.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "rl sooml(item": {
+        "total_quantity": 142.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ns": {
+        "total_quantity": 111.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "nipro sml(tem": {
+        "total_quantity": 14.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ecoflacwhy catem255": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "emeset": {
+        "total_quantity": 8.0,
+        "total_amount": 16.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "nipao": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "venflon -": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ms": {
+        "total_quantity": 11.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pantoreg": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "anemogl": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "rae": {
+        "total_quantity": 145.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2501": {
+        "total_quantity": 255.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2a0tog4": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "01": {
+        "total_quantity": 210.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ot oa": {
+        "total_quantity": 202.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "07": {
+        "total_quantity": 3202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ho": {
+        "total_quantity": 2.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "his": {
+        "total_quantity": 202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "01 q2": {
+        "total_quantity": 202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "0": {
+        "total_quantity": 9158.79,
+        "total_amount": 27.6,
+        "invoice_count": 2,
+        "average_rate": 863.58
+    },
+    "07/0520": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "of": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "oo": {
+        "total_quantity": 2368.0,
+        "total_amount": 18.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "o10": {
+        "total_quantity": 202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "o07": {
+        "total_quantity": 202.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "oiw0s-": {
+        "total_quantity": 202.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "o1a0t": {
+        "total_quantity": 28.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "tes": {
+        "total_quantity": 1.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "mot": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "f1ow": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "24-11-2025,": {
+        "total_quantity": 2.0,
+        "total_amount": 14.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "fof v/2005": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "79/1": {
+        "total_quantity": 172025.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "1991/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1971": {
+        "total_quantity": 12025.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "tope e025": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "19/7": {
+        "total_quantity": 172025.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "194": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "fol": {
+        "total_quantity": 12025.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "2oft": {
+        "total_quantity": 12025.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 1903.0
+    },
+    "10/1": {
+        "total_quantity": 2025.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "18/1": {
+        "total_quantity": 2026.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "20/1": {
+        "total_quantity": 308100.0,
+        "total_amount": 19.0,
+        "invoice_count": 1,
+        "average_rate": 5.08
+    },
+    "20/4": {
+        "total_quantity": 172025.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "20/9": {
+        "total_quantity": 12025.0,
+        "total_amount": 80.0,
+        "invoice_count": 1,
+        "average_rate": 17.0
+    },
+    "201": {
+        "total_quantity": 26075.0,
+        "total_amount": 14.0,
+        "invoice_count": 1,
+        "average_rate": 580.33
+    },
+    "20": {
+        "total_quantity": 1213.0,
+        "total_amount": 5.0,
+        "invoice_count": 3,
+        "average_rate": 0.0
+    },
+    "2091": {
+        "total_quantity": 12025.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "jo": {
+        "total_quantity": 2025.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1755.0
+    },
+    "2051": {
+        "total_quantity": 2025.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 173.0
+    },
+    "20/7": {
+        "total_quantity": 12025.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 773.0
+    },
+    "20/3": {
+        "total_quantity": 12025.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "20/1 b2025": {
+        "total_quantity": 173.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "20/5": {
+        "total_quantity": 12025.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "2b": {
+        "total_quantity": 9120285.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "s": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "21/1": {
+        "total_quantity": 12025.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "21 w205": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "241182028": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "20112025": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "rt w2025": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "par betes": {
+        "total_quantity": 1528.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "12025": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "21/4": {
+        "total_quantity": 172025.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "025": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "bi/112025": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2141 e025": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "221": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "22/1": {
+        "total_quantity": 2025.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "22h)": {
+        "total_quantity": 12025.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "22/4)": {
+        "total_quantity": 2025.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "22/11/2028": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2efiif20es": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "22/7": {
+        "total_quantity": 12026.0,
+        "total_amount": 10.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "22112025": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2201": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2a meo2s": {
+        "total_quantity": 29.2,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "22/3": {
+        "total_quantity": 12025.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "22/1 m2025": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "22/1 ved25": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "22/2025": {
+        "total_quantity": 2.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "anergl ig0ml": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "merrobe": {
+        "total_quantity": 50.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "supridol": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "nepa": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pan tored": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ns socml (only dressimghitem1": {
+        "total_quantity": 15.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pantored": {
+        "total_quantity": 8.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "anemol": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "std le ha": {
+        "total_quantity": 14.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "meraobe": {
+        "total_quantity": 50.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "anemol t00ml": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cort s": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "rantag": {
+        "total_quantity": 18.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "hifao syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ns (ooml (only dressing witermt": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "avibactam": {
+        "total_quantity": 1.5,
+        "total_amount": 11.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "ail": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "aztrone": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sy sethwop vein set": {
+        "total_quantity": 22.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "itema": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "item1": {
+        "total_quantity": 73.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "5651": {
+        "total_quantity": 9.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "go24": {
+        "total_quantity": 100.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "prs": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "25001": {
+        "total_quantity": 10.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "es01": {
+        "total_quantity": 245.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "soe": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "soz": {
+        "total_quantity": 5000.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "th2507": {
+        "total_quantity": 3201.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "th2s07": {
+        "total_quantity": 3201.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "g4": {
+        "total_quantity": 0.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "o10s": {
+        "total_quantity": 202.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "oi": {
+        "total_quantity": 7404.0,
+        "total_amount": 16.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "(ak": {
+        "total_quantity": 202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "oa": {
+        "total_quantity": 202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "i": {
+        "total_quantity": 1372.99,
+        "total_amount": 735.68,
+        "invoice_count": 2,
+        "average_rate": 2.83
+    },
+    "o11": {
+        "total_quantity": 2202.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "og": {
+        "total_quantity": 202.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "04": {
+        "total_quantity": 207.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 202.0
+    },
+    "oof": {
+        "total_quantity": 202.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "i na": {
+        "total_quantity": 202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "0)": {
+        "total_quantity": 0.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "o08": {
+        "total_quantity": 202.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "7-02": {
+        "total_quantity": 202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "f47": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "boo,": {
+        "total_quantity": 7.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "tab2": {
+        "total_quantity": 1.2,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1-2025,": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "114": {
+        "total_quantity": 22412085.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": 204.0
+    },
+    "agmaavibac tara o5gh) l bo250007 owoede7 p562": {
+        "total_quantity": 1.2,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "112": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "113": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "114 o2ft wau": {
+        "total_quantity": 23.4,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "116": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2a": {
+        "total_quantity": 141227.0,
+        "total_amount": 8.0,
+        "invoice_count": 2,
+        "average_rate": 2.0
+    },
+    "118": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "419": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "vat": {
+        "total_quantity": 2.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "127": {
+        "total_quantity": 4.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "122": {
+        "total_quantity": 2.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "123": {
+        "total_quantity": 241.0,
+        "total_amount": 11.0,
+        "invoice_count": 1,
+        "average_rate": 2025.0
+    },
+    "124": {
+        "total_quantity": 237.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "25": {
+        "total_quantity": 2.0,
+        "total_amount": 5.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "cpa": {
+        "total_quantity": 2.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "128": {
+        "total_quantity": 241.0,
+        "total_amount": 16.0,
+        "invoice_count": 1,
+        "average_rate": 2025.0
+    },
+    "136": {
+        "total_quantity": 25.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 2202.0
+    },
+    "131 s474": {
+        "total_quantity": 142025.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "133": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "154": {
+        "total_quantity": 2412025.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": 16.1
+    },
+    "135": {
+        "total_quantity": 24112025.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "24112025": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/17/2025": {
+        "total_quantity": 0.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "12/11/2025 admission charge": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 29000.0
+    },
+    "t1256 nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "12/11/2025 nicu": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4800.0
+    },
+    "84/11/2025 nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4800.0
+    },
+    "14/11/2025 nicu": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "16/41/2025 nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4800.0
+    },
+    "4741/2025 nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4800.0
+    },
+    "18/41/2025 nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4800.0
+    },
+    "19/11/2025 nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4500.0
+    },
+    "20/14/2025 nick": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4600.0
+    },
+    "2iv2025 nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4600.0
+    },
+    "22/41/2025 private ward": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 3200.0
+    },
+    "2n11/2025 private ward": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 3200.0
+    },
+    "24/11/2025 private ward": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 3200.0
+    },
+    "11/11/2025 nursing changes, - nicu": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1200.0
+    },
+    "- nicu": {
+        "total_quantity": 29.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 150907.62
+    },
+    "14/11/2025 nursing charges, - nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1200.0
+    },
+    "17/77/2025": {
+        "total_quantity": 0.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2 t1/": {
+        "total_quantity": 202.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "- private ward": {
+        "total_quantity": 3.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 666.67
+    },
+    "111172025 ryles tube insertion": {
+        "total_quantity": 1.0,
+        "total_amount": 300.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "11112025 umbdical line/picc insertion": {
+        "total_quantity": 1.0,
+        "total_amount": 6660.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "11/2025 ryles tube insertion": {
+        "total_quantity": 1.0,
+        "total_amount": 300.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "11172025 iv cannulisation": {
+        "total_quantity": 1.0,
+        "total_amount": 250.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "13/11/2025 ryles tube insertion": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 300.0
+    },
+    "18/11/2025 iv cannulisation": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 250.0
+    },
+    "1891/2025 double occupancy / attender stay": {
+        "total_quantity": 1.0,
+        "total_amount": 2500.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "1a1ww2025 double occupancy / attender stay": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2500.0
+    },
+    "2011/2025 iv cannulisation": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 250.0
+    },
+    "20/11/2025 double occupancy / attender stay": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2500.0
+    },
+    "14/11/2025 blood grouping abo": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 180.0
+    },
+    "17/11/2025 complete blood counti(cbc)": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 360.0
+    },
+    "12/44/2028 venous blood gas": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1320.0
+    },
+    "pagez of": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "patient phone date of admission -": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1811/2025 bilirubin direct - serum": {
+        "total_quantity": 1.0,
+        "total_amount": 240.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "1niv2025 bilirubin total - serum": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 240.0
+    },
+    "1571/2025 calcium - serum": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 240.0
+    },
+    "c-reactive protein": {
+        "total_quantity": 6.0,
+        "total_amount": 640.0,
+        "invoice_count": 1,
+        "average_rate": 10301.83
+    },
+    "1811/2025 renal function test (rft)": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 72000.0
+    },
+    "18112025 blooo culture and sensitivity": {
+        "total_quantity": 1.0,
+        "total_amount": 1.08,
+        "invoice_count": 1,
+        "average_rate": 8.0
+    },
+    "ft4 )": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 60000.0
+    },
+    "13/11/2025 thyroid stimulating hormone": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 3000.0
+    },
+    "16/11/2025 complete blood counticsc)": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 360.0
+    },
+    "169112025 urine for koh mount": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 600.0
+    },
+    "1611/2026 platelet count - blood": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 240.0
+    },
+    "17/11/2025 occult blood - stool": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 120.0
+    },
+    "18/17/2025 complete blood count(c8c)": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 360.0
+    },
+    "20/11/2025 platelet count - blood": {
+        "total_quantity": 1.0,
+        "total_amount": 240.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "11/14/2025 x-ray chest ap": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 480.0
+    },
+    "17/14/2025 x-ray chest ap": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 480.0
+    },
+    "17/11/2025": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "14/11/2025 x-ray chest ap": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 480.0
+    },
+    "pages of": {
+        "total_quantity": 4.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "94/11/2025": {
+        "total_quantity": 0.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2011/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "0,00": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4740.0
+    },
+    "11/11/2026 paediatrics - ip doctor visit": {
+        "total_quantity": 18.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 150000.0
+    },
+    "22/71/2025 paediatrics - ip doctor visit": {
+        "total_quantity": 6.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 65000.0
+    },
+    "23/71/2025 aucisiogy conauitation": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 650.0
+    },
+    "11/11/2025 insurance processing fees": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 750.0
+    },
+    "11/11/2025 dietary services - nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "11/11/2025 intubation": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2500.0
+    },
+    "11/91/2025 ventilator per day": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4500.0
+    },
+    "1/91/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "11/41/2025 monitor charges,": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "1411/2025 syringe pump": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "11/41/2025 grbs": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "11/18/2025 oxygen per day": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2400.0
+    },
+    "1/41/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 110.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "11/71/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "y2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "mviv2025 critical care consumables": {
+        "total_quantity": 11.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 65000.0
+    },
+    "1/91/2025 infection preventive measures (ipm)": {
+        "total_quantity": 11.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 300.0
+    },
+    "ft": {
+        "total_quantity": 202.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "41/2025 gres": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "12/1/2028 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 11000.0
+    },
+    "12/11/2025 dietary services - nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 50000.0
+    },
+    "12/44/2025 syringe pump": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 450.0
+    },
+    "12/11/2025 grbs": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 8855.0
+    },
+    "12/11/2025 nebulisation": {
+        "total_quantity": 3.0,
+        "total_amount": 0.05,
+        "invoice_count": 1,
+        "average_rate": 150.0
+    },
+    "12/11/2025 oxygen per day": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2400.0
+    },
+    "22025 initial assessment charges": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 500.0
+    },
+    "92/11/2025 linen charges": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 120.0
+    },
+    "v2in1/2025 ventilator initiation": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2180.0
+    },
+    "12/1 t2028 nebulisation": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 150.0
+    },
+    "12/11/2028 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.09
+    },
+    "1b": {
+        "total_quantity": 1202.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "13/11/2025 gres": {
+        "total_quantity": 5.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 5555.0
+    },
+    "13/11/2025 nebulisation": {
+        "total_quantity": 26.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 7650.0
+    },
+    "1wtt/2025 oxygen per day": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2400.0
+    },
+    "13/11/2025 syringe plump": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 450.0
+    },
+    "wi v2025 gres": {
+        "total_quantity": 1.0,
+        "total_amount": 11000.0,
+        "invoice_count": 1,
+        "average_rate": 14.0
+    },
+    "13/71/2025 grbs": {
+        "total_quantity": 1.4,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "13/11/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 11000.0
+    },
+    "13/11/2025 noninvasive ventilation (niv)": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 864500.0
+    },
+    "v917/2025": {
+        "total_quantity": 0.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "9a112026": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1,0": {
+        "total_quantity": 2038.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4166.67
+    },
+    "16": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2400.0
+    },
+    "page6 of": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "wiv2025 dietary services - nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 500.0
+    },
+    "f1v2025 grbs": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 710.0
+    },
+    "twvww2025 oxygen per day": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 862400.0
+    },
+    "17/11/2025 syringe pump": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 450.0
+    },
+    "7/11/2025 grbs": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "tiw2025 grss": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 11000.0
+    },
+    "18/11/2025 dietary services - nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 500.0
+    },
+    "81/2025 grss": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "1/14/2025 oxygen per day": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 240000.0
+    },
+    "1bi11/2025 syringe pump": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 450.0
+    },
+    "1avv2025 gres": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "18/77/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 11000.0
+    },
+    "wvw2025 grbs": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 11000.0
+    },
+    "19/91/2025 oxygen per day": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2400.0
+    },
+    "19/19/2025 syringe pump": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 450.0
+    },
+    "19/11/2025 dietary services - nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 500.0
+    },
+    "19/91/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "1911/2025 grbs": {
+        "total_quantity": 1.0,
+        "total_amount": 11000.0,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "20/91/2025 oxygen per hour": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 106.0
+    },
+    "2om12025 gres": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 110.0
+    },
+    "20/11/2025 monitor charges,": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 400.0
+    },
+    "20/14/2025 syringe pump": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 45000.0
+    },
+    "20/11/2025 dietary services - nicu": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 50000.0
+    },
+    "zr": {
+        "total_quantity": 1202.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2h": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "page of": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "v1419/2025": {
+        "total_quantity": 0.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "26/11/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "44/94/2025 disposable syringe s0ml hmd": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 57.18
+    },
+    "wives oisposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1112025 vasofiz": {
+        "total_quantity": 246.0,
+        "total_amount": 225.0,
+        "invoice_count": 1,
+        "average_rate": 3.0
+    },
+    "riivaugs accs pro blood glucose": {
+        "total_quantity": 30.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 28.08
+    },
+    "1/ivv202e5 disposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "114142025 disposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/11/2025 et tube": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4.0
+    },
+    "11/11/2025 examination gloves medium": {
+        "total_quantity": 16.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 29.06
+    },
+    "wt12025 infant feeding tube size": {
+        "total_quantity": 6.0,
+        "total_amount": 61.0,
+        "invoice_count": 1,
+        "average_rate": 2.0
+    },
+    "11/11/2025 kulick clamp": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 36.56
+    },
+    "11/11/2025 leukosand": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/11/2025 powder free gloves": {
+        "total_quantity": 7.5,
+        "total_amount": 13.44,
+        "invoice_count": 1,
+        "average_rate": 20.0
+    },
+    "3,0": {
+        "total_quantity": 75.34,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "1412025 surgical blade": {
+        "total_quantity": 22.0,
+        "total_amount": 5.62,
+        "invoice_count": 1,
+        "average_rate": 10.0
+    },
+    "w2025 three way stop cock": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 152.61
+    },
+    "wi11/2025 under fad": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 140.0
+    },
+    "ww": {
+        "total_quantity": 202.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "line": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "08": {
+        "total_quantity": 0.0,
+        "total_amount": 28.08,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "11/11/2025 blood lancet": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2000.0
+    },
+    "112025 disposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "vw1v1w2025 disposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "41/14/2025 disposable syringe sml hmd": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 10.31
+    },
+    "11/11/2026 examination gloves medium": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 14.06
+    },
+    "112005 cc": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 28.08
+    },
+    "ol": {
+        "total_quantity": 2.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1441/2025 blood lancet": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 20.0
+    },
+    "tavaa2025 disposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "t141/2025 disposable syringe ml kmd": {
+        "total_quantity": 1.0,
+        "total_amount": 1031.0,
+        "invoice_count": 1,
+        "average_rate": 19.0
+    },
+    "twa2025 examination gloves medium": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 14.06
+    },
+    "v1va2025 apron (plastic)": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ta vwa025 disposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1191/2025 examination gloves medium": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1406.0
+    },
+    "fold": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 65.0
+    },
+    "1wa2625 misposable syringe": {
+        "total_quantity": 5.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "w412026 powder free gloves": {
+        "total_quantity": 7.5,
+        "total_amount": 11344.0,
+        "invoice_count": 1,
+        "average_rate": 19.0
+    },
+    "11/11/2025 slood lancet": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 20.0
+    },
+    "accusure pro blood glucose": {
+        "total_quantity": 10.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 28.08
+    },
+    "11412025 disposable syringe": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1411/2025 disposable syringe sml hmd": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1031.0
+    },
+    "1112025 baby wipes": {
+        "total_quantity": 7.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/11/2026 dextrose": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/19/2025 injek": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "wtw2025 ns": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "11/11/2025 teddyy baby diaper": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1411/2025 water for inj s00ml": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 61.41
+    },
+    "1112025 troyhep": {
+        "total_quantity": 2500.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "14/11/2025 mezolam s(0g/5ml": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 31.03
+    },
+    "11412025 taxim-250mg/inj": {
+        "total_quantity": 1.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "14/11/2025 taxim-250mg/inj": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 18.92
+    },
+    "l,": {
+        "total_quantity": 1.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3,": {
+        "total_quantity": 2.0,
+        "total_amount": 12.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pathology": {
+        "total_quantity": 99931.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2dechocardiography": {
+        "total_quantity": 1180.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "usg whole abdomen including pelvis and": {
+        "total_quantity": 640.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "x ray chest lateral (one film)": {
+        "total_quantity": 184.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "bed charge general ward": {
+        "total_quantity": 6000.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "consultation for inpatients": {
+        "total_quantity": 1083.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "blood sugar random (rbs)": {
+        "total_quantity": 32.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cbc": {
+        "total_quantity": 240.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb270 dengue igm and igg": {
+        "total_quantity": 640.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "18/11/2025 lb269 dengue ns1i antigen": {
+        "total_quantity": 320.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "rate)": {
+        "total_quantity": 80.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "17,": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb042 hbsag": {
+        "total_quantity": 24.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "15/11/2025 lb043 hepatitis c virus (hcv)": {
+        "total_quantity": 400.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lbo44 hiv": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "il,": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb125 lipid profile": {
+        "total_quantity": 392.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb124 liver function test (lft)": {
+        "total_quantity": 400.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lbo26 mp antigen (malaria rapid card": {
+        "total_quantity": 232.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb248 procalcitonin": {
+        "total_quantity": 2070.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb123 rft/kidney function test(kft)": {
+        "total_quantity": 400.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lboss serum amylase": {
+        "total_quantity": 240.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lbo89 serum lipase": {
+        "total_quantity": 320.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb127 serum vitamin b-i2 level": {
+        "total_quantity": 480.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb263 typhidot igg igm": {
+        "total_quantity": 320.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lbis4 vitamin d3 assay": {
+        "total_quantity": 800.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "15/11/2025 lb268 widal test": {
+        "total_quantity": 56.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "17/11/2025 lb124 liver function test (lft)": {
+        "total_quantity": 400.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "17/11/2025 lbo70 c-reactive protein (crp)": {
+        "total_quantity": 240.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "17/11/2025 lb123 kidney funtion test (kft)": {
+        "total_quantity": 400.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "17/11/2025 lboi2 cbc": {
+        "total_quantity": 240.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "pharmacy charge": {
+        "total_quantity": 99931.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "18/11/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "i willi": {
+        "total_quantity": 3004.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 1382.0
+    },
+    "3004": {
+        "total_quantity": 2501002881.0,
+        "total_amount": 11.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "3004 k24a020525": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "d2372509a": {
+        "total_quantity": 0.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3004 bm14d2503a": {
+        "total_quantity": 0.0,
+        "total_amount": 14.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3004 dos92404a": {
+        "total_quantity": 0.0,
+        "total_amount": 12.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "n312292": {
+        "total_quantity": 0.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "024am020g": {
+        "total_quantity": 0.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3002, t393l619": {
+        "total_quantity": 0.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    ",": {
+        "total_quantity": 12347.0,
+        "total_amount": 16.0,
+        "invoice_count": 2,
+        "average_rate": 192339.33
+    },
+    "pa24114": {
+        "total_quantity": 0.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3004 bmt24-004a": {
+        "total_quantity": 0.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "b": {
+        "total_quantity": 300.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "lsod4174": {
+        "total_quantity": 0.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "9018 ptds5915": {
+        "total_quantity": 0.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3004 csf": {
+        "total_quantity": 0.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "102009": {
+        "total_quantity": 330.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "50": {
+        "total_quantity": 2080.0,
+        "total_amount": 20.0,
+        "invoice_count": 2,
+        "average_rate": null
+    },
+    "14,00": {
+        "total_quantity": 21.9,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "eee peeeeees": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cannula": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "eridot": {
+        "total_quantity": 2.0,
+        "total_amount": 10.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "flutech": {
+        "total_quantity": 2.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "foneg": {
+        "total_quantity": 120.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "esoman": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "neomol iv looml": {
+        "total_quantity": 3.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 522.0
+    },
+    "buscogast inj iml": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 12.8
+    },
+    "dynapar aq ini": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 43.6
+    },
+    "mucaine mint gel": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "aristozy me": {
+        "total_quantity": 20.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "aptivate syp": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "osolac": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "n5": {
+        "total_quantity": 50.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ns looml": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 47.0
+    },
+    "2ml ds": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sml ds": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ioml ds": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ssce": {
+        "total_quantity": 1.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "yi": {
+        "total_quantity": 300.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sie oe pe oe bye ee": {
+        "total_quantity": 1.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "- eg": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "wise ti": {
+        "total_quantity": 300.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "aed": {
+        "total_quantity": 901.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "bea": {
+        "total_quantity": 300.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ne iti": {
+        "total_quantity": 300.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "06/26 zoneg": {
+        "total_quantity": 120.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "02/27 emeset": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "09/26 esoman": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "08/26 neomoliv": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "04/26 drotin inj": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "05/30": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "0430 s5mlds": {
+        "total_quantity": 1.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "03/30": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "it": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 9.0
+    },
+    "hi": {
+        "total_quantity": 156.56,
+        "total_amount": 21.92,
+        "invoice_count": 1,
+        "average_rate": 14.0
+    },
+    "eeee cee": {
+        "total_quantity": 2.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 6.0
+    },
+    "3004 d2372509a": {
+        "total_quantity": 0.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "9018 sn312292": {
+        "total_quantity": 0.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "am020g": {
+        "total_quantity": 0.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "9018": {
+        "total_quantity": 325009.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "3004 pa24114": {
+        "total_quantity": 0.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3004 dobss2990": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3004 lsod4174": {
+        "total_quantity": 0.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "9018 ptd5915": {
+        "total_quantity": 0.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "/": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 0.0
+    },
+    "92": {
+        "total_quantity": 2.5,
+        "total_amount": 2.5,
+        "invoice_count": 1,
+        "average_rate": 18.04
+    },
+    "33": {
+        "total_quantity": 6.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": 680.9
+    },
+    "56": {
+        "total_quantity": 1.0,
+        "total_amount": 21.92,
+        "invoice_count": 1,
+        "average_rate": 400.0
+    },
+    "eee ee ee wee ees ss ee see eee -saee": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "80": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "60": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "28": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1 consultation": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2650.0
+    },
+    "7 drugs": {
+        "total_quantity": 1.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": 1702.9
+    },
+    "3 investigations": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 3000.0
+    },
+    "4 medical consumable": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": 4352.1
+    },
+    "5 other charges": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2475.0
+    },
+    "6 procedures": {
+        "total_quantity": 700.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "7 room rent": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 4000.0
+    },
+    "8 surgery": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "7 -": {
+        "total_quantity": 3.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": 6620.0
+    },
+    "discount": {
+        "total_quantity": 3057.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "1 nishchal": {
+        "total_quantity": 1.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "2 nishchal": {
+        "total_quantity": 1.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "(general surgery)": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "8/11/25": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 250.0
+    },
+    "4 wnishchal": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "aa": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 2650.0
+    },
+    "5 dolentia fast": {
+        "total_quantity": 1.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "6 moxynic": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "1 modular cup": {
+        "total_quantity": 4.0,
+        "total_amount": 3.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "5mm": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 7500.0
+    },
+    "3 uncemented femoral stem": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "sales amount": {
+        "total_quantity": 68500.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "neomol": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ns euro": {
+        "total_quantity": 50.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "safe port rl": {
+        "total_quantity": 50.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "foley catheter": {
+        "total_quantity": 1.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "inj pantakind": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "omnivan": {
+        "total_quantity": 2.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "vein-o line": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "p22b05": {
+        "total_quantity": 0.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "6090625c": {
+        "total_quantity": 0.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "t383l1109": {
+        "total_quantity": 0.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "taso04e003": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "r1rc382": {
+        "total_quantity": 0.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "v018221": {
+        "total_quantity": 0.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "a2iqox049": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "bdwo2zaia": {
+        "total_quantity": 0.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "25e31m8202": {
+        "total_quantity": 0.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "25618m8203": {
+        "total_quantity": 0.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4022425b": {
+        "total_quantity": 0.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "50241": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cf323": {
+        "total_quantity": 0.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "21/10/2025": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "150": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 150.0
+    },
+    "349": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 349.0
+    },
+    "574": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 574.0
+    },
+    "48": {
+        "total_quantity": 19605.0,
+        "total_amount": 9.0,
+        "invoice_count": 2,
+        "average_rate": 98.4
+    },
+    "89": {
+        "total_quantity": 1.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": 64.8
+    },
+    "628": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 1256.0
+    },
+    "52": {
+        "total_quantity": 1966.0,
+        "total_amount": 5.0,
+        "invoice_count": 2,
+        "average_rate": 29.0
+    },
+    "46": {
+        "total_quantity": 4.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": 125.8
+    },
+    "184": {
+        "total_quantity": 2.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 368.0
+    },
+    "198": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 198.0
+    },
+    "95": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 95.0
+    },
+    "347": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": 347.0
+    },
+    "22/10/2025": {
+        "total_quantity": 0.0,
+        "total_amount": 5.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cezosal": {
+        "total_quantity": 2.0,
+        "total_amount": 10.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "27": {
+        "total_quantity": 28.0,
+        "total_amount": 628.0,
+        "invoice_count": 1,
+        "average_rate": 1.0
+    },
+    "3 pantakind": {
+        "total_quantity": 4.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "4 justin-ao inj": {
+        "total_quantity": 3004906.0,
+        "total_amount": 9.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "5 proport ns": {
+        "total_quantity": 10.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "6 omnivan": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    ") omnivan": {
+        "total_quantity": 1.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "3) prep razor medi norm - - aeos24": {
+        "total_quantity": 0.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "10 trulon sn": {
+        "total_quantity": 333.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "7 hiv": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "21-10-2025": {
+        "total_quantity": 0.0,
+        "total_amount": 27.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "28-10-2025": {
+        "total_quantity": 2.0,
+        "total_amount": 14.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "28-1f": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "due amount": {
+        "total_quantity": 0.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "lobimatr em tal": {
+        "total_quantity": 1.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "maes poul": {
+        "total_quantity": 2.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ft j i": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "f": {
+        "total_quantity": 1.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "very": {
+        "total_quantity": 44.0,
+        "total_amount": 8.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "cosmetics act": {
+        "total_quantity": 194.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "ccccccccccccscesescesceesscscecesssceescsasesceeneeesssnneessacegenseeensenneseseeees es": {
+        "total_quantity": 151200.0,
+        "total_amount": 0.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "a6nan08": {
+        "total_quantity": 5.0,
+        "total_amount": 6.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "per annum will be charged if bill is not paid within": {
+        "total_quantity": 1.0,
+        "total_amount": 7.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "26": {
+        "total_quantity": 3928.0,
+        "total_amount": 2.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "32": {
+        "total_quantity": 1963.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "47": {
+        "total_quantity": 1963.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "44": {
+        "total_quantity": 1964.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "o1": {
+        "total_quantity": 1964.0,
+        "total_amount": 4.0,
+        "invoice_count": 1,
+        "average_rate": null
+    },
+    "o4": {
+        "total_quantity": 1963.0,
+        "total_amount": 1.0,
+        "invoice_count": 1,
+        "average_rate": null
+    }
+}

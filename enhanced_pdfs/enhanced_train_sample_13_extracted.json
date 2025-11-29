@@ -1,0 +1,1388 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "CT SCAN CHARGES",
+            "quantity": "4945",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "CT SCAN CHARGES",
+            "quantity": "4946",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-EMESET-4MG-2ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "IV-CANNULA-VENFLON-18G",
+            "quantity": "506544",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "3,000.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "1,500.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "3,000.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "3,000.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "1,900.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "600.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "7,175.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "3,438.7",
+            "amount": "5"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "2,900.0",
+            "amount": "0"
+        },
+        {
+            "description": "pee",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "2,500.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "6,900.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "1",
+            "rate": "0,200.0",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "150.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "150.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "400.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "300.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "1,797.5",
+            "amount": "6"
+        },
+        {
+            "description": "Printed by an",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "Bill Date -",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "19-Nov-2025",
+            "quantity": "21.3",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "34-Nov-2025",
+            "quantity": "13.1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "B17A101",
+            "quantity": "1",
+            "rate": "81.3",
+            "amount": "8"
+        },
+        {
+            "description": "IV-DRESSING-INTRA-SHIELD- G2410109",
+            "quantity": "1",
+            "rate": "13.0",
+            "amount": "7"
+        },
+        {
+            "description": "-1000ML-NON-",
+            "quantity": "3060982",
+            "rate": "1",
+            "amount": "62.24"
+        },
+        {
+            "description": "IV-FLUID-RL-SO00ML-NON-PVC-",
+            "quantity": "113831",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "SYRINGE-ROMOJET-ROMSON-21G- G25H020",
+            "quantity": "3",
+            "rate": "57.6",
+            "amount": "6"
+        },
+        {
+            "description": "1",
+            "quantity": "26",
+            "rate": "7,22",
+            "amount": "267.22"
+        },
+        {
+            "description": "INJ-BIOTAX-1GM FA00148",
+            "quantity": "1",
+            "rate": "42.6",
+            "amount": "7"
+        },
+        {
+            "description": "INJ-EMESET-4MG-2ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-PANTOCID-IV-40MG NPBOOIG",
+            "quantity": "1",
+            "rate": "53.8",
+            "amount": "9"
+        },
+        {
+            "description": "-500ML-NON-",
+            "quantity": "1068529",
+            "rate": "1",
+            "amount": "37.24"
+        },
+        {
+            "description": "IV-FLUID-RL-SO00ML-NON-PVC-",
+            "quantity": "113831",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4852",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "sYTIW2500",
+            "quantity": "",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "INJ-AMIKAMAC-250MG",
+            "quantity": "18253290",
+            "rate": "2",
+            "amount": "122.1"
+        },
+        {
+            "description": "-SO0ML-NON-",
+            "quantity": "4107854",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4853",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "-SOOML-NON-",
+            "quantity": "1078543",
+            "rate": "1",
+            "amount": "40.8"
+        },
+        {
+            "description": "48635/PIS/25N",
+            "quantity": "1",
+            "rate": "3,937.64",
+            "amount": "3,937.64"
+        },
+        {
+            "description": "INJ-EMESET-4MG-2ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "so YNW250 I",
+            "quantity": "66.1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-RANTAC-50MG-2ML XIR22412",
+            "quantity": "2",
+            "rate": "13.6",
+            "amount": "1"
+        },
+        {
+            "description": "5GM",
+            "quantity": "18252410",
+            "rate": "2",
+            "amount": "723.74"
+        },
+        {
+            "description": "IV-CANNULA-VENFLON-18G",
+            "quantity": "5065445",
+            "rate": "1",
+            "amount": "43.4"
+        },
+        {
+            "description": "MOUTH-WASH-HEXIDINE-160ML L25130",
+            "quantity": "1",
+            "rate": "136.3",
+            "amount": "3"
+        },
+        {
+            "description": "NEEDLE-DISPO-",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "LANCET-ULTRA-SAFETY",
+            "quantity": "250705",
+            "rate": "5",
+            "amount": "19.69"
+        },
+        {
+            "description": "IV-DRESSING-INTRA-SHIELD- G2410109",
+            "quantity": "1",
+            "rate": "13.0",
+            "amount": "7"
+        },
+        {
+            "description": "ISENS-GLUCOSTRIP XDO2LLS",
+            "quantity": "3",
+            "rate": "42.",
+            "amount": "7"
+        },
+        {
+            "description": "INJ-AMIKAMAC-500MG",
+            "quantity": "18253039",
+            "rate": "1",
+            "amount": "115.72"
+        },
+        {
+            "description": "-100ML-NON-",
+            "quantity": "2062372",
+            "rate": "6",
+            "amount": "126.06"
+        },
+        {
+            "description": "-SOOML-NON-",
+            "quantity": "1078543",
+            "rate": "1",
+            "amount": "40.8"
+        },
+        {
+            "description": "IV-FLUID-RL-SO0ML-NON- PVC-",
+            "quantity": "113831",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "SYRINGE- ROMOJET-ROMSON-21G- G25H020",
+            "quantity": "5",
+            "rate": "96.",
+            "amount": "1"
+        },
+        {
+            "description": "UNDERPAD-DIGNITY-MATTEY- G2511400",
+            "quantity": "5",
+            "rate": "92.5",
+            "amount": "3"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4873",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "SPIROMETER-RESPIROMETER G25G040",
+            "quantity": "1",
+            "rate": "132.",
+            "amount": "9"
+        },
+        {
+            "description": "EXTENSION-SET-Q-SYTE-THREE-",
+            "quantity": "5062067",
+            "rate": "1",
+            "amount": "300.42"
+        },
+        {
+            "description": "48758/PIS/25N",
+            "quantity": "1",
+            "rate": "8,482.12",
+            "amount": "8,482.12"
+        },
+        {
+            "description": "BANDAGE-CREPE-6INCH",
+            "quantity": "016",
+            "rate": "1",
+            "amount": "26.25"
+        },
+        {
+            "description": "CATHETER-URETHERAL-K-90",
+            "quantity": "2507288",
+            "rate": "1",
+            "amount": "8.15"
+        },
+        {
+            "description": "COVER-C-ARM-D306",
+            "quantity": "250",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "GLOVES-ORTHOPAEDIC-8NO",
+            "quantity": "25070015",
+            "rate": "2",
+            "amount": "112.88"
+        },
+        {
+            "description": "GLOVES-POWDER-FREE-7NO-",
+            "quantity": "25040115",
+            "rate": "4",
+            "amount": "212.8"
+        },
+        {
+            "description": "25H3015",
+            "quantity": "2",
+            "rate": "42.",
+            "amount": "0"
+        },
+        {
+            "description": "Printed by - on",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24-Nov-2025",
+            "quantity": "15.0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "19-Nov-2025",
+            "quantity": "21.3",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24-Nov-2025",
+            "quantity": "13.1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "GLOVES-SURGICAL- -7NO",
+            "quantity": "253207",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "s-25-1483-",
+            "quantity": "2",
+            "rate": "90,6",
+            "amount": "3"
+        },
+        {
+            "description": "HIV-KIT-SURGICAL-DISPO KT2410",
+            "quantity": "3",
+            "rate": "1181,2",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "INJ-TERMIN-300MG-10ML V307258",
+            "quantity": "1",
+            "rate": "35.5",
+            "amount": "3"
+        },
+        {
+            "description": "INJ-TRENAXA-SOOMG-SML TNA2518",
+            "quantity": "1",
+            "rate": "73.2",
+            "amount": "2"
+        },
+        {
+            "description": "IV-CANNULA-VENFLON-20G",
+            "quantity": "5209519",
+            "rate": "1",
+            "amount": "40.69"
+        },
+        {
+            "description": "IV-SET-NOVOFUSION",
+            "quantity": "6188925",
+            "rate": "1",
+            "amount": "241.88"
+        },
+        {
+            "description": "NEEDLE-DISPO-18NO-HMD",
+            "quantity": "3644",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "2501025 i",
+            "quantity": "91.6",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "POP-BSN-GYPSONA-6INCH",
+            "quantity": "2",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "UNI/25/0",
+            "quantity": "2",
+            "rate": "210.",
+            "amount": "0"
+        },
+        {
+            "description": "SUCTION-SET-YANKAUR-VACCU- G25E010",
+            "quantity": "1",
+            "rate": "108.9",
+            "amount": "4"
+        },
+        {
+            "description": "SUTURE-CENTICRYL-2-0-2317 CE277",
+            "quantity": "1",
+            "rate": "644.0",
+            "amount": "6"
+        },
+        {
+            "description": "CFO88",
+            "quantity": "3",
+            "rate": "1459.6",
+            "amount": "9"
+        },
+        {
+            "description": "SYRINGE-DISPO-10ML-HMD",
+            "quantity": "54010",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "SYRINGE-DISPO-2ML-HMD",
+            "quantity": "52402",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "SYRINGE-DISPO-SOML-HMD",
+            "quantity": "52050",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "SYRINGE-DISPO-5ML-HMD",
+            "quantity": "53205",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "SPONGE-RADIOACTIVE-10X10- GS-70",
+            "quantity": "2",
+            "rate": "180.",
+            "amount": "0"
+        },
+        {
+            "description": "INJ-ROPIN-HEAVY",
+            "quantity": "1984006",
+            "rate": "1",
+            "amount": "132.15"
+        },
+        {
+            "description": "IV-DRESSING-INTRA-SHIELD- G2410107",
+            "quantity": "1",
+            "rate": "13.9",
+            "amount": "4"
+        },
+        {
+            "description": "-1000ML-NON-",
+            "quantity": "306102",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "SUTURE-CENTISORB-PNW-2382-2- CE2117",
+            "quantity": "1",
+            "rate": "749.0",
+            "amount": "6"
+        },
+        {
+            "description": "IV-FLUID-RL-1000ML-NON-PVC",
+            "quantity": "1252829",
+            "rate": "1",
+            "amount": "106.08"
+        },
+        {
+            "description": "48774/PIS/25N es",
+            "quantity": "",
+            "rate": "2,035.1",
+            "amount": "1"
+        },
+        {
+            "description": "INJ-EMESET-4MG-2ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "YIIW250",
+            "quantity": "3",
+            "rate": "66.1",
+            "amount": "5"
+        },
+        {
+            "description": "5GM",
+            "quantity": "18252410",
+            "rate": "2",
+            "amount": "723.74"
+        },
+        {
+            "description": "IV-SET-TRANS-FLOW G25H010",
+            "quantity": "1",
+            "rate": "19.",
+            "amount": "5"
+        },
+        {
+            "description": "LANCET-ULTRA-SAFETY",
+            "quantity": "250705",
+            "rate": "5",
+            "amount": "19.69"
+        },
+        {
+            "description": "ISENS-GLUCOSTRIP XDOS5LL6",
+            "quantity": "5",
+            "rate": "42.",
+            "amount": "7"
+        },
+        {
+            "description": "INJ-AMIKAMAC-S00MG",
+            "quantity": "18253039",
+            "rate": "1",
+            "amount": "45.72"
+        },
+        {
+            "description": "-",
+            "quantity": "2062372",
+            "rate": "5",
+            "amount": "105.05"
+        },
+        {
+            "description": "3",
+            "quantity": "9",
+            "rate": "6.",
+            "amount": "1"
+        },
+        {
+            "description": "G2511400",
+            "quantity": "4",
+            "rate": "74.0",
+            "amount": "2"
+        },
+        {
+            "description": "48795/PIS/25N",
+            "quantity": "1",
+            "rate": "416.3",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-TRAMASURE-100MG-2ML E31Y021",
+            "quantity": "2",
+            "rate": "50.2",
+            "amount": "8"
+        },
+        {
+            "description": "MASK-NEBULISER-ADULT G25F040",
+            "quantity": "1",
+            "rate": "56.6",
+            "amount": "5"
+        },
+        {
+            "description": "RESPULES-DUOLIN-3ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "-SOOML-",
+            "quantity": "1018221",
+            "rate": "1",
+            "amount": "40.57"
+        },
+        {
+            "description": "RESPULES-BUDECORT-1MG",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "1,044.13",
+            "amount": "1,044.13"
+        },
+        {
+            "description": "BANDAGE-CREPE-6INCH",
+            "quantity": "017",
+            "rate": "2",
+            "amount": "52.5"
+        },
+        {
+            "description": "25H7087 i",
+            "quantity": "44.6",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "Printed by on",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "94-Now-3075",
+            "quantity": "15.0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "1y-Nov-2025",
+            "quantity": "21.3",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24-Nov-2025",
+            "quantity": "13.1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "7",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "DRESSING-OPSITE-POST-OP-",
+            "quantity": "202508",
+            "rate": "2",
+            "amount": "905.0"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4885",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "BT-SET-ROMSONS G25A020",
+            "quantity": "2",
+            "rate": "39.4",
+            "amount": "2"
+        },
+        {
+            "description": "SUPPOSITORY-GERBISA-10MG TAO498A",
+            "quantity": "2",
+            "rate": "80.0",
+            "amount": "2"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4893",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "IMPLANT-TWIN-LOCK-BCP-SCREW-",
+            "quantity": "07011062",
+            "rate": "8",
+            "amount": "30800.0"
+        },
+        {
+            "description": "IMPLANT-WASHER--TIT",
+            "quantity": "0408962",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "IMPLANT-TWIN-LOCK-BCP-VERO-",
+            "quantity": "01078825",
+            "rate": "1",
+            "amount": "19600.0"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4896",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "BT-SET-ROMSONS G25A020",
+            "quantity": "1",
+            "rate": "19.7",
+            "amount": "1"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "G2511400",
+            "quantity": "2",
+            "rate": "37.0",
+            "amount": "1"
+        },
+        {
+            "description": "48973/PIS/25N",
+            "quantity": "1",
+            "rate": "40.31",
+            "amount": "40.31"
+        },
+        {
+            "description": "G25G6040",
+            "quantity": "1",
+            "rate": "40.3",
+            "amount": "1"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4900",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "INJ-EMESET-4MG-2ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-LOOML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "YITW250",
+            "quantity": "2",
+            "rate": "44.",
+            "amount": "1"
+        },
+        {
+            "description": "INJ-RANTAC-50MG-2ML XIR22412",
+            "quantity": "1",
+            "rate": "6.8",
+            "amount": "1"
+        },
+        {
+            "description": "5GM",
+            "quantity": "18252410",
+            "rate": "2",
+            "amount": "723.74"
+        },
+        {
+            "description": "INJ-TRAMASURE-100MG-2ML E31Y021",
+            "quantity": "1",
+            "rate": "25.1",
+            "amount": "4"
+        },
+        {
+            "description": "IV-SET-TRANS-FLOW G25H010",
+            "quantity": "1",
+            "rate": "19.",
+            "amount": "5"
+        },
+        {
+            "description": "NEEDLE-DISPO-16NO G25E010",
+            "quantity": "4",
+            "rate": "6.",
+            "amount": "3"
+        },
+        {
+            "description": "INJ-AMIKAMAC-500MG",
+            "quantity": "18253039",
+            "rate": "1",
+            "amount": "115.72"
+        },
+        {
+            "description": "-100ML-NON-",
+            "quantity": "206240",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "SYRINGE-ROMOJET-ROMSON-24G- G25B020",
+            "quantity": "2",
+            "rate": "21.",
+            "amount": "0"
+        },
+        {
+            "description": "SYRINGE-ROMOJET-ROMSON-21G- G25H020",
+            "quantity": "2",
+            "rate": "38.4",
+            "amount": "4"
+        },
+        {
+            "description": "G2511400",
+            "quantity": "2",
+            "rate": "37.0",
+            "amount": "1"
+        },
+        {
+            "description": "RESPULES-BUDECORT-1MG",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4911",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "INJ-RANTAC-50MG-2ML XIR22412",
+            "quantity": "1",
+            "rate": "6.",
+            "amount": "8"
+        },
+        {
+            "description": "INJ-TRAMASURE-100MG-2ML E31Y021",
+            "quantity": "1",
+            "rate": "25.1",
+            "amount": "4"
+        },
+        {
+            "description": "UNDERPAD-DIGNITY-MATTEY-",
+            "quantity": "62511400",
+            "rate": "3",
+            "amount": "55.52"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4917",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "INJ-EMESET-4MG-2ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-KABIMOL-FREEFLEX-100ML",
+            "quantity": "8",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "-YIIW250",
+            "quantity": "3",
+            "rate": "66.1",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-RANTAC-SOMG-2ML XIR22412",
+            "quantity": "2",
+            "rate": "13.6",
+            "amount": "1"
+        },
+        {
+            "description": "5GM",
+            "quantity": "18252410",
+            "rate": "2",
+            "amount": "723,74"
+        },
+        {
+            "description": "INJ-TRAMASURE-100MG-2ML E31Y021",
+            "quantity": "3",
+            "rate": "75.4",
+            "amount": "2"
+        },
+        {
+            "description": "TV-CANNULA-VENFLON-20G",
+            "quantity": "9217743",
+            "rate": "1",
+            "amount": "40.69"
+        },
+        {
+            "description": "LANCET-ULTRA-SAFETY",
+            "quantity": "250705",
+            "rate": "5",
+            "amount": "19.69"
+        },
+        {
+            "description": "IV-DRESSING-INTRA-SHIELD- G2410109",
+            "quantity": "1",
+            "rate": "13.0",
+            "amount": "7"
+        },
+        {
+            "description": "ISENS-GLUCOSTRIP XDO2LL5",
+            "quantity": "5",
+            "rate": "40.0",
+            "amount": "3"
+        },
+        {
+            "description": "INJ-AMIKAMAC-500MG",
+            "quantity": "1825303",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "Printed by on",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "24-Nov-3025",
+            "quantity": "15.0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "19-Nov-2025",
+            "quantity": "71.3",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24-Nov-2025",
+            "quantity": "13.1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "- TOOML-NON-",
+            "quantity": "623",
+            "rate": "6",
+            "amount": "41266"
+        },
+        {
+            "description": "G2511400",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "49218/PIS/25N",
+            "quantity": "1",
+            "rate": "56.47",
+            "amount": "56.47"
+        },
+        {
+            "description": "5065445",
+            "quantity": "1",
+            "rate": "43.",
+            "amount": "4"
+        },
+        {
+            "description": "IV-DRESSING-INTRA-SHIELD- G2410109",
+            "quantity": "1",
+            "rate": "13.0",
+            "amount": "7"
+        },
+        {
+            "description": "Tf",
+            "quantity": "19.50",
+            "rate": "19.5",
+            "amount": "0"
+        },
+        {
+            "description": "IPD CONSUMABLE CHARGES",
+            "quantity": "4926",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "INJ-EMESET-4MG-2ML -5A00162",
+            "quantity": "2",
+            "rate": "25.4",
+            "amount": "4"
+        },
+        {
+            "description": "INJ-RANTAC-50MG-2ML XIR22412",
+            "quantity": "1",
+            "rate": "6.",
+            "amount": "8"
+        },
+        {
+            "description": "MASK-NEBULISER-ADULT G25F040",
+            "quantity": "1",
+            "rate": "56.6",
+            "amount": "5"
+        },
+        {
+            "description": "6712/PRT/25N -1",
+            "quantity": "475.3",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ue INJ-EMESET-4MG-2ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "INJ-RANTAC-50MG-2ML XIR22412",
+            "quantity": "1",
+            "rate": "6.8",
+            "amount": "1"
+        },
+        {
+            "description": "31Y021",
+            "quantity": "1",
+            "rate": "25.1",
+            "amount": "4"
+        },
+        {
+            "description": "5217743,",
+            "quantity": "1",
+            "rate": "40.6",
+            "amount": "9"
+        },
+        {
+            "description": "G25E010",
+            "quantity": "6",
+            "rate": "9.4",
+            "amount": "5"
+        },
+        {
+            "description": "LANCET-ULTRA-SAFETY",
+            "quantity": "250705",
+            "rate": "7",
+            "amount": "27.57"
+        },
+        {
+            "description": "IV-DRESSING-INTRA-SHIELD- G2410109",
+            "quantity": "1",
+            "rate": "13.0",
+            "amount": "7"
+        },
+        {
+            "description": "10",
+            "quantity": "82.7",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "-100ML-NON-",
+            "quantity": "2062384",
+            "rate": "4",
+            "amount": "84.04"
+        },
+        {
+            "description": "TV-FLUID-RL-500ML-NON-PVC-",
+            "quantity": "113831",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "-500ML-",
+            "quantity": "1018221",
+            "rate": "1",
+            "amount": "40"
+        },
+        {
+            "description": "SYRINGE-ROMOJET-ROMSON-24G- G25B020",
+            "quantity": "2",
+            "rate": "21",
+            "amount": "0"
+        },
+        {
+            "description": "SYRINGE-ROMOJET-ROMSON-21G- G25H020",
+            "quantity": "2",
+            "rate": "38.4",
+            "amount": "4"
+        },
+        {
+            "description": "1",
+            "quantity": "114.84",
+            "rate": "114.8",
+            "amount": "4"
+        },
+        {
+            "description": "TAPE-PAPER-MICROPORE-3INCH R072505 i",
+            "quantity": "444.8",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "JINDAL PHARMACY CHARGES i",
+            "quantity": "",
+            "rate": "2,950.00",
+            "amount": "2,950.00"
+        },
+        {
+            "description": "1",
+            "quantity": "",
+            "rate": "1,069.00",
+            "amount": "1,069.00"
+        },
+        {
+            "description": "49453/DRG/25N",
+            "quantity": "1",
+            "rate": "2,820.00",
+            "amount": "2,820.00"
+        },
+        {
+            "description": "205",
+            "quantity": "250.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "BLEEDING TIME x HO15",
+            "quantity": "45.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "CBC COMPLETE BLOOD COUNT x V021",
+            "quantity": "280.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "CLOTTING TIME x H016",
+            "quantity": "45.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "COMPLETE ABG x VWM9",
+            "quantity": "650.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "204",
+            "quantity": "440.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "203",
+            "quantity": "260.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "LIVER FUNCTION TEST LFT x V206",
+            "quantity": "620.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "PTI x H131",
+            "quantity": "230.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "LABORATORY CHARGES",
+            "quantity": "4966",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "HB x HOO1",
+            "quantity": "45.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "LABORATORY CHARGES",
+            "quantity": "4966",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "PCV x H002",
+            "quantity": "60.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "49836/DRG/25N",
+            "quantity": "1",
+            "rate": "105.00",
+            "amount": "105.00"
+        },
+        {
+            "description": "Printed by, on",
+            "quantity": "3",
+            "rate": "",
+            "amount": "4"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": null,
+    "taxes": [],
+    "computed_total": 190951.22000000003
+}

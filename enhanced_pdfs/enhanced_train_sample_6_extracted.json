@@ -1,0 +1,224 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "7 HIV",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "12",
+            "quantity": "7",
+            "rate": "3,7",
+            "amount": "4"
+        },
+        {
+            "description": "21-10-2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "28-10-2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "28-10-2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "21-10-2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "28-10-2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "28-10-2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "00",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "21-10-2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "28-10-2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "28-1F",
+            "quantity": "1",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "Due Amount",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": null,
+    "taxes": [],
+    "computed_total": 83.0
+}

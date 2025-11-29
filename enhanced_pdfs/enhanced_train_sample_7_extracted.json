@@ -1,0 +1,62 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "LOBIMATR EM TAL",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Maes Poul",
+            "quantity": "2",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "ft j i",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "f",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "A",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "VERY",
+            "quantity": "44",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "cosmetics act",
+            "quantity": "194",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "3",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": null,
+    "taxes": [],
+    "computed_total": 23.0
+}

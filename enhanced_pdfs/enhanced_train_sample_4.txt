@@ -1,0 +1,68 @@
+
+
+--- Page 1 ---
+LE ee eee ee
+
+BilESeSuipply Inpatient Bill(Summary)
+
+Company State :
+
+SINo. Service Name Amount(Rs.)
+
+1 Consultation 2,650.00
+7 Drugs 1,702.93
+3 Investigations 3,000.00
+4 Medical Consumable 4,352.12
+5 Other Charges 2,475.00
+6 Procedures 700.00
+7 Room Rent 4,000.00
+8 Surgery 2 > . 17,740.00
+Grand Total : 7 - 36,620.05
+
+onc a. 05 Bill Amount : 36,620.05
+
+Deposit: 10,000,00
+
+Discount 3057.00
+
+Total Discount : 3,057.00
+
+Company Credit Limit: 29,858.00
+Net Amount refunded to patient : -6,294.95
+Net Amount Paid by Company : 29,858.00
+
+
+--- Page 2 ---
+J
+
+Bill of Supply Inpatient Bill (Detailed)
+
+SI. Item Name Date Qty Unit Unit Price Amount(Rs. }
+No.
+Consultation
+1 Nishchal 8/11/25 1.0 800.00 BO0.00
+Anand(General &
+Laproscopic Surgeon)
+(General Surgery)
+2  Nishchal 6/11/25 1.0 BO0.00 800.00
+Anand(General & aes
+Laproscopic Surgeon)
+(General Surgery) 7
+3 =©Dietician Consultation* 8/11/25 1.0 250.00— 250.00
+() ; .
+4 WNishchal 9/11/25 1.0 800.00 800.00
+Anand(General &
+Laproscopic Surgeon)
+(General Surgery) . .
+Sub Total : 2650.00 « aa 2,650.00
+Drugs a “
+5 DOLENTIA FAST 8/11/25 2.0Ampo 38.44 76.88
+75MG/1 ML INJ (Batch “ ules
+No./ Lot No:
+C3DOL006 / DOE:
+30-06-27) .
+6 MOXYNIC 1.2GM INI 8/11/25 2.0Vial 151,31 302.62
+
+(Batch No./ Lot No:
+AQLO123 / DOE:
+31-07-27)

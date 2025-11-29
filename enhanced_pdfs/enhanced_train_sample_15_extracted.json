@@ -1,0 +1,1784 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "11/17/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "12/11/2025 ADMISSION CHARGE",
+            "quantity": "1.0",
+            "rate": "290,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "00",
+            "quantity": "250.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "T1256 NICU",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "12/11/2025 NICU",
+            "quantity": "4.0",
+            "rate": "4,800.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "84/11/2025 NICU",
+            "quantity": "1.0",
+            "rate": "4,800.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "14/11/2025 NICU",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "0"
+        },
+        {
+            "description": "14/11/2025 NICU",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "0"
+        },
+        {
+            "description": "16/41/2025 NICU",
+            "quantity": "1.0",
+            "rate": "4,800.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "4741/2025 NICU",
+            "quantity": "1.0",
+            "rate": "4,800.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "18/41/2025 NICU",
+            "quantity": "1.0",
+            "rate": "4,800.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "19/11/2025 NICU",
+            "quantity": "1.0",
+            "rate": "4,500.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "20/14/2025 NICK",
+            "quantity": "1.0",
+            "rate": "4,600.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "2IV2025 NICU",
+            "quantity": "1.0",
+            "rate": "4,600.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "22/41/2025 PRIVATE WARD",
+            "quantity": "1.0",
+            "rate": "3,200.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "2N11/2025 PRIVATE WARD",
+            "quantity": "1.0",
+            "rate": "3,200.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "24/11/2025 PRIVATE WARD",
+            "quantity": "1.0",
+            "rate": "3,200.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "00",
+            "quantity": "6",
+            "rate": "2,400.0",
+            "amount": "0"
+        },
+        {
+            "description": "11/11/2025 NURSING CHANGES, - NICU",
+            "quantity": "10",
+            "rate": "1,200.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "10",
+            "rate": "1,200.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "10",
+            "rate": "1,200.00",
+            "amount": "6.00"
+        },
+        {
+            "description": "14/11/2025 NURSING CHARGES, - NICU",
+            "quantity": "1.0",
+            "rate": "1,200.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "1.0",
+            "rate": "1,200,060",
+            "amount": "0.00"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "1.0",
+            "rate": "1,200.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "17/77/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "0"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "1.0",
+            "rate": "1,200.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "4.0",
+            "rate": "1,200.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "- NICU",
+            "quantity": "1.0",
+            "rate": "1,200.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "2 T1/",
+            "quantity": "202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "- PRIVATE WARD",
+            "quantity": "1.0",
+            "rate": "800.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "- PRIVATE WARD",
+            "quantity": "1.0",
+            "rate": "600.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "- PRIVATE WARD",
+            "quantity": "1.0",
+            "rate": "600.0",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "1",
+            "rate": "5,600.0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "250.00",
+            "rate": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "111172025 RYLES TUBE INSERTION",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "300.00"
+        },
+        {
+            "description": "11112025 Umbdical Line/PICC Insertion",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "6,660.00"
+        },
+        {
+            "description": "11/2025 RYLES TUBE INSERTION",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "300.00"
+        },
+        {
+            "description": "11172025 Iv CANNULISATION",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "250.00"
+        },
+        {
+            "description": "13/11/2025 RYLES TUBE INSERTION",
+            "quantity": "1.0",
+            "rate": "300.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "18/11/2025 Iv CANNULISATION",
+            "quantity": "1.0",
+            "rate": "250.",
+            "amount": "0"
+        },
+        {
+            "description": "1891/2025 Double Occupancy / Attender Stay",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "2,500.00"
+        },
+        {
+            "description": "1a1Ww2025 Double Occupancy / Attender Stay",
+            "quantity": "1.0",
+            "rate": "2,500.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "2011/2025 IV CANNULISATION",
+            "quantity": "1.0",
+            "rate": "250.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "20/11/2025 Double Occupancy / Attender Stay",
+            "quantity": "1.0",
+            "rate": "2,500.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "00",
+            "quantity": "8",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "14/11/2025 BLOOD GROUPING ABO",
+            "quantity": "1.0",
+            "rate": "180.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "17/11/2025 COMPLETE BLOOD COUNTI(CBC)",
+            "quantity": "1.0",
+            "rate": "360.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/44/2028 VENOUS BLOOD GAS",
+            "quantity": "1.0",
+            "rate": "1,320.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Pagez of",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "Patient Phone Date of Admission -",
+            "quantity": "1",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "1811/2025 BILIRUBIN DIRECT - SERUM",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "240.00"
+        },
+        {
+            "description": "1NIV2025 BILIRUBIN TOTAL - SERUM",
+            "quantity": "1.0",
+            "rate": "240.00",
+            "amount": "6.00"
+        },
+        {
+            "description": "1571/2025 CALCIUM - SERUM",
+            "quantity": "1.0",
+            "rate": "240.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "C-REACTIVE PROTEIN",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "0"
+        },
+        {
+            "description": "1811/2025 RENAL FUNCTION TEST (RFT)",
+            "quantity": "1.0",
+            "rate": "720,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "18112025 BLOOO CULTURE AND SENSITIVITY",
+            "quantity": "1.0",
+            "rate": "8",
+            "amount": "1.08"
+        },
+        {
+            "description": "FT4 )",
+            "quantity": "1.0",
+            "rate": "600,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "13/11/2025 THYROID STIMULATING HORMONE",
+            "quantity": "4.0",
+            "rate": "300,0",
+            "amount": "0"
+        },
+        {
+            "description": "16/11/2025 COMPLETE BLOOD COUNTICSC)",
+            "quantity": "1.0",
+            "rate": "360.00",
+            "amount": "0.0"
+        },
+        {
+            "description": "C-REACTIVE PROTEIN",
+            "quantity": "1.0",
+            "rate": "600,00",
+            "amount": "0,040"
+        },
+        {
+            "description": "169112025 URINE FOR KOH MOUNT",
+            "quantity": "1.0",
+            "rate": "600.00",
+            "amount": "6.00"
+        },
+        {
+            "description": "C-REACTIVE PROTEIN",
+            "quantity": "1.0",
+            "rate": "600.00",
+            "amount": "0.0"
+        },
+        {
+            "description": "1611/2026 PLATELET COUNT - BLOOD",
+            "quantity": "1.0",
+            "rate": "240.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "17/11/2025 OCCULT BLOOD - STOOL",
+            "quantity": "1.0",
+            "rate": "120.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "18/17/2025 COMPLETE BLOOD COUNT(C8C)",
+            "quantity": "1.0",
+            "rate": "360.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "C-REACTIVE PROTEIN",
+            "quantity": "1.0",
+            "rate": "600.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "C-REACTIVE PROTEIN",
+            "quantity": "1.0",
+            "rate": "600.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "20/11/2025 PLATELET COUNT - BLOOD",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "240.00"
+        },
+        {
+            "description": "0",
+            "quantity": "360.00",
+            "rate": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "C-REACTIVE PROTEIN",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "600.00"
+        },
+        {
+            "description": "00",
+            "quantity": "1",
+            "rate": "1,160.0",
+            "amount": "0"
+        },
+        {
+            "description": "11/14/2025 X-RAY CHEST AP",
+            "quantity": "1.0",
+            "rate": "480.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "17/14/2025 X-RAY CHEST AP",
+            "quantity": "1.0",
+            "rate": "480.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "17/11/2025",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "14/11/2025 X-RAY CHEST AP",
+            "quantity": "1.0",
+            "rate": "480.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "PageS of",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "94/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24/17/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "2011/2025",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "0,00",
+            "quantity": "",
+            "rate": "4,740.0",
+            "amount": "0"
+        },
+        {
+            "description": "11/11/2026 PAEDIATRICS - iP DOCTOR VISIT",
+            "quantity": "18.0",
+            "rate": "1,500,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "22/71/2025 PAEDIATRICS - IP DOCTOR VISIT",
+            "quantity": "6.0",
+            "rate": "650,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "23/71/2025 Aucisiogy Conauitation",
+            "quantity": "1.0",
+            "rate": "650.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "00",
+            "quantity": "3",
+            "rate": "2,850.0",
+            "amount": "0"
+        },
+        {
+            "description": "11/11/2025 INSURANCE PROCESSING FEES",
+            "quantity": "1.0",
+            "rate": "750.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "11/11/2025 DIETARY SERVICES - NICU",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "0"
+        },
+        {
+            "description": "11/11/2025 INTUBATION",
+            "quantity": "1.0",
+            "rate": "2,500.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "11/91/2025 VENTILATOR PER DAY",
+            "quantity": "1.0",
+            "rate": "4,500.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "1/91/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "11/41/2025 MONITOR CHARGES,",
+            "quantity": "",
+            "rate": "1.",
+            "amount": "0"
+        },
+        {
+            "description": "1411/2025 SYRINGE PUMP",
+            "quantity": "",
+            "rate": "1,",
+            "amount": "0"
+        },
+        {
+            "description": "11/41/2025 GRBS",
+            "quantity": "2.0",
+            "rate": "110.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "11/18/2025 OXYGEN PER DAY",
+            "quantity": "10",
+            "rate": "2,400.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "1/41/2025 GRBS",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "110.00"
+        },
+        {
+            "description": "11/71/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "y2025 GRBS",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "mvIV2025 Critical Care Consumables",
+            "quantity": "11.0",
+            "rate": "650,00",
+            "amount": "0,00"
+        },
+        {
+            "description": "1/91/2025 Infection Preventive Measures (IPM)",
+            "quantity": "11.0",
+            "rate": "300.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "FT",
+            "quantity": "202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "41/2025 GRES",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/1/2028 GRBS",
+            "quantity": "1.0",
+            "rate": "110,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/11/2025 DIETARY SERVICES - NICU",
+            "quantity": "1.0",
+            "rate": "500,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "11/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "0",
+            "quantity": "600.00",
+            "rate": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/44/2025 SYRINGE PUMP",
+            "quantity": "10",
+            "rate": "450.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/11/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "170,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/11/2025 NEBULISATION",
+            "quantity": "2.0",
+            "rate": "150.00",
+            "amount": "0.05"
+        },
+        {
+            "description": "12/11/2025 OXYGEN PER DAY",
+            "quantity": "10",
+            "rate": "2,400.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "22025 INITIAL ASSESSMENT CHARGES",
+            "quantity": "1.0",
+            "rate": "500.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "92/11/2025 LINEN CHARGES",
+            "quantity": "1.0",
+            "rate": "120.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "V2IN1/2025 Ventilator Initiation",
+            "quantity": "10",
+            "rate": "2,180.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "12/11/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "710.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/1 t2028 NEBULISATION",
+            "quantity": "2.0",
+            "rate": "150.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "12/11/2028 GRBs",
+            "quantity": "1.0",
+            "rate": "110.09",
+            "amount": "0.00"
+        },
+        {
+            "description": "12/11/2025 NEBULISATION",
+            "quantity": "1.0",
+            "rate": "150.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "1B",
+            "quantity": "1202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "13/11/2025 GRES",
+            "quantity": "4.0",
+            "rate": "110,00",
+            "amount": "0,00"
+        },
+        {
+            "description": "13/11/2025 NEBULISATION",
+            "quantity": "4.0",
+            "rate": "150.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "9",
+            "quantity": "80",
+            "rate": "0,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1Wtt/2025 OXYGEN PER DAY",
+            "quantity": "10",
+            "rate": "2,400.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "13/11/2025 SYRINGE PLUMP",
+            "quantity": "1.0",
+            "rate": "450.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Wi V2025 GRES",
+            "quantity": "",
+            "rate": "1,4",
+            "amount": "110,00"
+        },
+        {
+            "description": "13/11/2025 NEBULISATION",
+            "quantity": "1.0",
+            "rate": "450.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "13/71/2025 GRBS",
+            "quantity": "1.4",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "13/11/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "110,00",
+            "amount": "6.00"
+        },
+        {
+            "description": "13/11/2025 GRES",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "13/11/2025 NEBULISATION",
+            "quantity": "20",
+            "rate": "150,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "13/11/2025 Noninvasive Ventilation (NIV)",
+            "quantity": "1.0",
+            "rate": "864,500.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "13/11/2025 NEBULISATION",
+            "quantity": "1.0",
+            "rate": "150,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "0",
+            "quantity": "600.00",
+            "rate": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "PageS of",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "2a",
+            "quantity": "19202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "V917/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "9a112026",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "10",
+            "quantity": "249",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "450.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "150.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1,0",
+            "quantity": "500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "15",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "1,0",
+            "quantity": "",
+            "rate": "4,500.0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "15",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "15",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "20",
+            "quantity": "11",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "450.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "45",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "1,0",
+            "quantity": "500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "",
+            "rate": "4,500.0",
+            "amount": "9"
+        },
+        {
+            "description": "10",
+            "quantity": "86",
+            "rate": "2,400.0",
+            "amount": "0"
+        },
+        {
+            "description": "1,0",
+            "quantity": "6",
+            "rate": "8,000.0",
+            "amount": "0"
+        },
+        {
+            "description": "10",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "800.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "45",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "16",
+            "quantity": "",
+            "rate": "2,400.0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "11",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "",
+            "rate": "2,400.0",
+            "amount": "0"
+        },
+        {
+            "description": "Page6 of",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1.5",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "11/17/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "11/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "WIV2025 DIETARY SERVICES - NICU",
+            "quantity": "1.0",
+            "rate": "500.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "F1V2025 GRBS",
+            "quantity": "2.0",
+            "rate": "710.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "0",
+            "quantity": "600.00",
+            "rate": "0,00",
+            "amount": "0,00"
+        },
+        {
+            "description": "TWVWw2025 OXYGEN PER DAY",
+            "quantity": "10",
+            "rate": "862,400.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "17/11/2025 SYRINGE PUMP",
+            "quantity": "1.0",
+            "rate": "450.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "7/11/2025 GRBS",
+            "quantity": "2.0",
+            "rate": "110.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "TIW2025 GRSS",
+            "quantity": "1.0",
+            "rate": "110,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "18/11/2025 DIETARY SERVICES - NICU",
+            "quantity": "1.0",
+            "rate": "500.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "81/2025 GRSS",
+            "quantity": "2.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "0",
+            "quantity": "800.00",
+            "rate": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1/14/2025 OXYGEN PER Day",
+            "quantity": "1.0",
+            "rate": "2,400,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1BI11/2025 SYRINGE PUMP",
+            "quantity": "1.0",
+            "rate": "450.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1AVV2025 GRES",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "18/77/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "110,00",
+            "amount": "6.00"
+        },
+        {
+            "description": "WVW2025 GRBS",
+            "quantity": "20",
+            "rate": "110,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "00",
+            "quantity": "0.00",
+            "rate": "0.0",
+            "amount": "0"
+        },
+        {
+            "description": "19/91/2025 OXYGEN PER DAY",
+            "quantity": "1.0",
+            "rate": "2,400.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "19/19/2025 SYRINGE PUMP",
+            "quantity": "10",
+            "rate": "450.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "19/11/2025 DIETARY SERVICES - NICU",
+            "quantity": "1.0",
+            "rate": "500.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "19/91/2025 GRBS",
+            "quantity": "1.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1911/2025 GRBS",
+            "quantity": "",
+            "rate": "1,0",
+            "amount": "110,00"
+        },
+        {
+            "description": "20/91/2025 OXYGEN PER HOUR",
+            "quantity": "1.0",
+            "rate": "106.00",
+            "amount": "0,00"
+        },
+        {
+            "description": "2OM12025 GRES",
+            "quantity": "2.0",
+            "rate": "110.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "20/11/2025 MONITOR CHARGES,",
+            "quantity": "1.0",
+            "rate": "400.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "20/14/2025 SYRINGE PUMP",
+            "quantity": "1.0",
+            "rate": "450,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "20/11/2025 DIETARY SERVICES - NICU",
+            "quantity": "1.0",
+            "rate": "500,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "ZR",
+            "quantity": "1202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "2H",
+            "quantity": "1",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "Page of",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "1,0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "10",
+            "quantity": "249",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "150.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "200.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "200.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1,0",
+            "quantity": "11",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1,0",
+            "quantity": "500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1,0",
+            "quantity": "410.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "",
+            "rate": "1,070.0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "140.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "110.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "500.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "",
+            "rate": "1,600.0",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "20.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "-",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "V1419/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "26/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "",
+            "rate": "1,6",
+            "amount": "2"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "11/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "12.3",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "44/94/2025 DISPOSABLE SYRINGE S0ML HMD",
+            "quantity": "1.0",
+            "rate": "57.18",
+            "amount": "0,00"
+        },
+        {
+            "description": "Wives OISPOSABLE SYRINGE",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "1112025 VASOFIZ",
+            "quantity": "246",
+            "rate": "3.0",
+            "amount": "225.00"
+        },
+        {
+            "description": "riivaugs ACCS PRO BLOOD GLUCOSE",
+            "quantity": "30",
+            "rate": "28.08",
+            "amount": "0.00"
+        },
+        {
+            "description": "1/iVv202e5 DISPOSABLE SYRINGE",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "114142025 DISPOSABLE SYRINGE",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "11/11/2025 ET TUBE",
+            "quantity": "",
+            "rate": "4,",
+            "amount": "0"
+        },
+        {
+            "description": "11/11/2025 EXAMINATION GLOVES MEDIUM",
+            "quantity": "10.0",
+            "rate": "44.06",
+            "amount": "0.00"
+        },
+        {
+            "description": "Wt12025 INFANT FEEDING TUBE SIZE",
+            "quantity": "6",
+            "rate": "2.0",
+            "amount": "61.00"
+        },
+        {
+            "description": "11/11/2025 KULICK CLAMP",
+            "quantity": "1.0",
+            "rate": "36.56",
+            "amount": "0.00"
+        },
+        {
+            "description": "11/11/2025 LEUKOSAND",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "11/11/2025 POWDER FREE GLOVES",
+            "quantity": "7.5",
+            "rate": "20",
+            "amount": "13.44"
+        },
+        {
+            "description": "3,0",
+            "quantity": "75.34",
+            "rate": "0,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1412025 SURGICAL BLADE",
+            "quantity": "22",
+            "rate": "1,0",
+            "amount": "5.62"
+        },
+        {
+            "description": "W2025 THREE WAY STOP COCK",
+            "quantity": "1.0",
+            "rate": "152.61",
+            "amount": "0.00"
+        },
+        {
+            "description": "Wi11/2025 UNDER FAD",
+            "quantity": "1.0",
+            "rate": "140.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "WW",
+            "quantity": "202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "LINE",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "08",
+            "quantity": "0.00",
+            "rate": "0.00",
+            "amount": "28.08"
+        },
+        {
+            "description": "11/11/2025 BLOOD LANCET",
+            "quantity": "4.0",
+            "rate": "20,00",
+            "amount": "0.00"
+        },
+        {
+            "description": "112025 DISPOSABLE SYRINGE",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "",
+            "rate": "6,119.06",
+            "amount": "9.60"
+        },
+        {
+            "description": "VW1V1W2025 DISPOSABLE SYRINGE",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "41/14/2025 DISPOSABLE SYRINGE SML HMD",
+            "quantity": "1.0",
+            "rate": "10.31",
+            "amount": "6.00"
+        },
+        {
+            "description": "11/11/2026 EXAMINATION GLOVES MEDIUM",
+            "quantity": "2.0",
+            "rate": "14.06",
+            "amount": "0.00"
+        },
+        {
+            "description": "112005 CC",
+            "quantity": "20",
+            "rate": "28.08",
+            "amount": "0,00"
+        },
+        {
+            "description": "ol",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "11/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "1441/2025 BLOOD LANCET",
+            "quantity": "2.0",
+            "rate": "20.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "TAVAA2025 DISPOSABLE SYRINGE",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "T141/2025 DISPOSABLE SYRINGE ML KMD",
+            "quantity": "",
+            "rate": "1,9",
+            "amount": "10,31"
+        },
+        {
+            "description": "TWa2025 EXAMINATION GLOVES MEDIUM",
+            "quantity": "2.0",
+            "rate": "14.06",
+            "amount": "0,00"
+        },
+        {
+            "description": "V1VA2025 APRON (PLASTIC)",
+            "quantity": "1.0",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "TA VWA025 DISPOSABLE SYRINGE",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1191/2025 EXAMINATION GLOVES MEDIUM",
+            "quantity": "20.0",
+            "rate": "14,06",
+            "amount": "0,00"
+        },
+        {
+            "description": "0",
+            "quantity": "6",
+            "rate": "7,19",
+            "amount": "0.00"
+        },
+        {
+            "description": "FOLD",
+            "quantity": "1.0",
+            "rate": "65.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1WA2625 MISPOSABLE SYRINGE",
+            "quantity": "5",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "W412026 POWDER FREE GLOVES",
+            "quantity": "7.5",
+            "rate": "19",
+            "amount": "113,44"
+        },
+        {
+            "description": "11/11/2025 SLOOD LANCET",
+            "quantity": "2.0",
+            "rate": "20.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "ACCUSURE PRO BLOOD GLUCOSE",
+            "quantity": "10",
+            "rate": "28.08",
+            "amount": "9.00"
+        },
+        {
+            "description": "11412025 DISPOSABLE SYRINGE",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "1411/2025 DISPOSABLE SYRINGE SML HMD",
+            "quantity": "2.0",
+            "rate": "10,31",
+            "amount": "0.00"
+        },
+        {
+            "description": "11/11/2025 EXAMINATION GLOVES MEDIUM",
+            "quantity": "6.0",
+            "rate": "14.06",
+            "amount": "0.00"
+        },
+        {
+            "description": "1112025 BABY WIPES",
+            "quantity": "7",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "11/11/2026 DEXTROSE",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "11/19/2025 INJEK",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "WTW2025 NS",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "0",
+            "quantity": "21.79",
+            "rate": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "11/11/2025 TEDDYY BABY DIAPER",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "1411/2025 WATER FOR INJ S00ML",
+            "quantity": "4.0",
+            "rate": "61.41",
+            "amount": "0.00"
+        },
+        {
+            "description": "1112025 TROYHEP",
+            "quantity": "2500",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "14/11/2025 MEZOLAM S(0G/5ML",
+            "quantity": "1.0",
+            "rate": "31.03",
+            "amount": "0.00"
+        },
+        {
+            "description": "11412025 TAXIM-250MG/INJ",
+            "quantity": "1.0",
+            "rate": "1",
+            "amount": "8."
+        },
+        {
+            "description": "14/11/2025 TAXIM-250MG/INJ",
+            "quantity": "2.0",
+            "rate": "18.92",
+            "amount": "0.00"
+        },
+        {
+            "description": "Page",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        }
+    ],
+    "subtotal_extracted": null,
+    "total_extracted": null,
+    "taxes": [],
+    "computed_total": 46216.87
+}

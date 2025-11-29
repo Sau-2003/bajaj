@@ -1,0 +1,2138 @@
+{
+    "line_items": [
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24/1",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "18/7",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "1 ICU ROOM RENT CHARGES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "1 IP REGISTRATION FEES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "JAI NIVAS - NEPHROLOGIST FEES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "GOWTHAM CONSULTATION FEES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "MOHAN KANNAN CONSULTATION FEES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "RAJ BHARATH CONSULATATION FEES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "5 Mahendra Raghavan consultation fees",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "SENSITIVITY",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "19/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "19/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ARTERIAL BLOOD GAS ANALYSIS)",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "9 Procalcitonin -PCT",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "CL)",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "7 C-Reactive Protein (CRP)",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "8 HBAIC (GLYCOSYLATED HEMOGLOBIN)",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Sensitivity - Aerobic",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "(ARTERIAL BLOOD GAS ANALYSIS)",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "11 Renal Function Test (RFT)",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "12 Complete Blood Count",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "20/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "14 Complete Blood Count",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "15 Renal Function Test (AFT)",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "16 SMEAR STUDY",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "CBG",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "18 C-Reactive Protein (CRP)",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "19 URIC ACID - SERUM",
+            "quantity": "221",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "MONITOR CHARGES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "OXYGEN CHARGES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "MONITOR GHARGES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "22/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "22/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "22/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "23/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "23/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "22/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24/17/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "19/14/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "21/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "21/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "21/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "4/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "e4/1",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "7",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "7",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "70.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "7",
+            "rate": "0,0",
+            "amount": "0"
+        },
+        {
+            "description": "00",
+            "quantity": "0.0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Page Mor",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "Diet Charges ,",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "1 ECHO SCREENING",
+            "quantity": "2",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "2 LAP MONITOR CAMERA LIGHT USED",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "-24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "MRD CHARGES",
+            "quantity": "2",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "24/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "1 To",
+            "quantity": "2088",
+            "rate": "0",
+            "amount": "1"
+        },
+        {
+            "description": "z",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "a",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "4 POPE T2025",
+            "quantity": "0",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "5",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "6",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "TS)",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "8 Tet",
+            "quantity": "202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "4 FOAM",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "in TOM",
+            "quantity": "1202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "Tf",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "12",
+            "quantity": "19412025",
+            "rate": "011",
+            "amount": "4"
+        },
+        {
+            "description": "13",
+            "quantity": "191",
+            "rate": "12025",
+            "amount": "01"
+        },
+        {
+            "description": "14",
+            "quantity": "191",
+            "rate": "17202",
+            "amount": "5"
+        },
+        {
+            "description": "15",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "17",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "18",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "ig",
+            "quantity": "191",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "a0",
+            "quantity": "1574172025",
+            "rate": "0",
+            "amount": "1"
+        },
+        {
+            "description": "21",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "22",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "2d (O11",
+            "quantity": "2025",
+            "rate": "0",
+            "amount": "1"
+        },
+        {
+            "description": "24",
+            "quantity": "191",
+            "rate": "12025",
+            "amount": "01"
+        },
+        {
+            "description": "25 TOF",
+            "quantity": "12026",
+            "rate": "0",
+            "amount": "1"
+        },
+        {
+            "description": "25 TS",
+            "quantity": "12",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ar Tat",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "ao",
+            "quantity": "7375",
+            "rate": "12025",
+            "amount": "07"
+        },
+        {
+            "description": "ou",
+            "quantity": "19",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "a0 TS",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "at",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "t2",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "a3",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "34",
+            "quantity": "181",
+            "rate": "12025",
+            "amount": "01"
+        },
+        {
+            "description": "35",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "36",
+            "quantity": "1",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "a7",
+            "quantity": "1924172025",
+            "rate": "0",
+            "amount": "55"
+        },
+        {
+            "description": "38",
+            "quantity": "1955",
+            "rate": "172025",
+            "amount": "91"
+        },
+        {
+            "description": "a9",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "40",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "Af TO",
+            "quantity": "12025",
+            "rate": "0",
+            "amount": "1"
+        },
+        {
+            "description": "ag TE Vene5",
+            "quantity": "0",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "4g",
+            "quantity": "7",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "444 Tort",
+            "quantity": "2025",
+            "rate": "0",
+            "amount": "1"
+        },
+        {
+            "description": "1M V2025 OF",
+            "quantity": "4",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "66 tO/4",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "9"
+        },
+        {
+            "description": "47 FSF",
+            "quantity": "12025",
+            "rate": "193",
+            "amount": "9"
+        },
+        {
+            "description": "l of",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "MAXON",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "FOLEYS GATHETER",
+            "quantity": "1",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "EFIPRES (EPHEDRINE)",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "STERILE WATER INU",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "SPINAL NEEDLE",
+            "quantity": "2",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "ECG LEEDS -",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "SURGICARE GLOVES",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "BETADINE",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "GAUZE SWAB",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "LOX",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "JETE Mat",
+            "quantity": "79",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "OXYGEN MASK ADULT(ITEM",
+            "quantity": "123",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "SURGICARE GLOVES",
+            "quantity": "",
+            "rate": "7.",
+            "amount": "5"
+        },
+        {
+            "description": "NIPRO",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "RL SOOML(ITEM",
+            "quantity": "142",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "NS",
+            "quantity": "100",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NIPRO SML(TEM",
+            "quantity": "14",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "NIPRO",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "ECOFLACWHY CATEM255",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "NIPAO",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NIPRO",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "VENFLON -",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "MS",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "PANTOREG",
+            "quantity": "4",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NS",
+            "quantity": "",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "ANEMOGL",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "MAXON",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "Rae",
+            "quantity": "145",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "2501",
+            "quantity": "00255",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "2a0tOG4",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "-",
+            "quantity": "1",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "01",
+            "quantity": "208",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "01",
+            "quantity": "",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "01",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "Ot Oa",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "07",
+            "quantity": "03202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "HO",
+            "quantity": "02",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "His",
+            "quantity": "202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "01 Q2",
+            "quantity": "202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "0",
+            "quantity": "0",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "07/0520",
+            "quantity": "0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "OF",
+            "quantity": "2",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Oo",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "O10",
+            "quantity": "202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "O07",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "Oiw0s-",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "O1A0t",
+            "quantity": "28",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "Tes",
+            "quantity": "",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "MOT",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "F1Ow",
+            "quantity": "",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "24-11-2025,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "FOF V/2005",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "79/1",
+            "quantity": "172025",
+            "rate": "1",
+            "amount": "9"
+        },
+        {
+            "description": "1991/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "1971",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "9"
+        },
+        {
+            "description": "TOPE e025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "19/7",
+            "quantity": "172025",
+            "rate": "1",
+            "amount": "9"
+        },
+        {
+            "description": "194",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "FOL",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "9"
+        },
+        {
+            "description": "2OFt",
+            "quantity": "12025",
+            "rate": "1903",
+            "amount": "9"
+        },
+        {
+            "description": "19/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "10/1",
+            "quantity": "2025",
+            "rate": "2",
+            "amount": "2"
+        },
+        {
+            "description": "18/1",
+            "quantity": "2026",
+            "rate": "2",
+            "amount": "3"
+        },
+        {
+            "description": "20/1",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "5"
+        },
+        {
+            "description": "20/4",
+            "quantity": "172025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "20/1",
+            "quantity": "122025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "20/9",
+            "quantity": "12025",
+            "rate": "17",
+            "amount": "80"
+        },
+        {
+            "description": "201",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "20",
+            "quantity": "1202",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "2091",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "JO",
+            "quantity": "2025",
+            "rate": "1755",
+            "amount": "0"
+        },
+        {
+            "description": "20/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "20/1",
+            "quantity": "2025",
+            "rate": "17.3",
+            "amount": "0"
+        },
+        {
+            "description": "2051",
+            "quantity": "2025",
+            "rate": "173",
+            "amount": "0"
+        },
+        {
+            "description": "201",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "20/7",
+            "quantity": "12025",
+            "rate": "773",
+            "amount": "0"
+        },
+        {
+            "description": "20/3",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "20/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "20/1",
+            "quantity": "172025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "201",
+            "quantity": "2025",
+            "rate": "1739",
+            "amount": "0"
+        },
+        {
+            "description": "20/1 b2025",
+            "quantity": "173",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "20/5",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "7"
+        },
+        {
+            "description": "2b",
+            "quantity": "9120285",
+            "rate": "1",
+            "amount": "5"
+        },
+        {
+            "description": "21/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "s",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "21/1",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "6"
+        },
+        {
+            "description": "21 W205",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "241182028",
+            "quantity": "1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "20112025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "RT W2025",
+            "quantity": "",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "Par betes",
+            "quantity": "1528",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "12025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "21/4",
+            "quantity": "172025",
+            "rate": "1",
+            "amount": "5"
+        },
+        {
+            "description": "025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "Bi/112025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "2141 e025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "21",
+            "quantity": "2025",
+            "rate": "1",
+            "amount": "9"
+        },
+        {
+            "description": "221",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "22/11/2025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "22/1",
+            "quantity": "2025",
+            "rate": "1",
+            "amount": "6"
+        },
+        {
+            "description": "22h)",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "6"
+        },
+        {
+            "description": "22/4)",
+            "quantity": "2025",
+            "rate": "1",
+            "amount": "6"
+        },
+        {
+            "description": "22/11/2028",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "2efiif20es",
+            "quantity": "1",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "22/7",
+            "quantity": "12025",
+            "rate": "1",
+            "amount": "9"
+        },
+        {
+            "description": "22/7",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "22112025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "2201",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "2A MEO2S",
+            "quantity": "29.2",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "22/3",
+            "quantity": "12025",
+            "rate": "2",
+            "amount": "3"
+        },
+        {
+            "description": "22/1 M2025",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "22/1 VED25",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "22/11/2025",
+            "quantity": "2",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "22/2025",
+            "quantity": "2",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "ANERGL iG0ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "NIPRO",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "MERROBE",
+            "quantity": "50",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ANEMOGL",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "SUPRIDOL",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NEPA",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "PAN TORED",
+            "quantity": "4",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NS SOCML (ONLY DRESSIMGHITEM1",
+            "quantity": "15",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "PANTORED",
+            "quantity": "4",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ANEMOL",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "Std LE ha",
+            "quantity": "14",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "MERAOBE",
+            "quantity": "50",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NS",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "NIPAO",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "ANEMOL T00ML",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "CORT S",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "RANTAG",
+            "quantity": "18",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "HIFAO SYRINGE",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "NS (OOML (ONLY DRESSING WITERMT",
+            "quantity": "",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "AVIBACTAM",
+            "quantity": "0.5",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "AIL",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "AVIBACTAM",
+            "quantity": "",
+            "rate": "0.",
+            "amount": "5"
+        },
+        {
+            "description": "EMESET",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "AZTRONE",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "MS",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "PANTORED",
+            "quantity": "4",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "SY SETHWOP VEIN SET",
+            "quantity": "22",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ANEMOL",
+            "quantity": "10",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ITEMA",
+            "quantity": "1",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "ITEM1",
+            "quantity": "73",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "5651",
+            "quantity": "9",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "GO24",
+            "quantity": "0100",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "PRS",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "25001",
+            "quantity": "10",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "es01",
+            "quantity": "00245",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "Soe",
+            "quantity": "01",
+            "rate": "00",
+            "amount": "6"
+        },
+        {
+            "description": "SoZ",
+            "quantity": "5000",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "TH2507",
+            "quantity": "3201",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "TH2S07",
+            "quantity": "3201",
+            "rate": "",
+            "amount": "4"
+        },
+        {
+            "description": "G4",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "O10s",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "Oi",
+            "quantity": "2202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "(AK",
+            "quantity": "202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "Oa",
+            "quantity": "202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "i",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "O11",
+            "quantity": "2202",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "OG",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "04",
+            "quantity": "207",
+            "rate": "202",
+            "amount": "6"
+        },
+        {
+            "description": "1",
+            "quantity": "0",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "OOF",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "i Na",
+            "quantity": "202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "Oi",
+            "quantity": "05202",
+            "rate": "",
+            "amount": "9"
+        },
+        {
+            "description": "0)",
+            "quantity": "0",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "O08",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "OO",
+            "quantity": "202",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "7-02",
+            "quantity": "202",
+            "rate": "",
+            "amount": "8"
+        },
+        {
+            "description": "f47",
+            "quantity": "0",
+            "rate": "",
+            "amount": "0"
+        },
+        {
+            "description": "BOO,",
+            "quantity": "7",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "Tab2",
+            "quantity": "1.2",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "1-2025,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "--- Page",
+            "quantity": "",
+            "rate": "",
+            "amount": "6"
+        },
+        {
+            "description": "114",
+            "quantity": "22412085",
+            "rate": "204",
+            "amount": "2"
+        },
+        {
+            "description": "AGMaAVIBAC TARA O5GH) L BO250007 owoede7 P562",
+            "quantity": "1.2",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "112",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "113",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "114 o2ft Wau",
+            "quantity": "23.4",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "15",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "116",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "2a",
+            "quantity": "122025",
+            "rate": "2",
+            "amount": "3"
+        },
+        {
+            "description": "118",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "419",
+            "quantity": "2",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "Vat",
+            "quantity": "2",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "127",
+            "quantity": "2",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "122",
+            "quantity": "2",
+            "rate": "",
+            "amount": "3"
+        },
+        {
+            "description": "123",
+            "quantity": "241",
+            "rate": "2025",
+            "amount": "11"
+        },
+        {
+            "description": "124",
+            "quantity": "237",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "25",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "cpa",
+            "quantity": "2",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "127",
+            "quantity": "2",
+            "rate": "",
+            "amount": "5"
+        },
+        {
+            "description": "128",
+            "quantity": "241",
+            "rate": "2025",
+            "amount": "16"
+        },
+        {
+            "description": "24/1",
+            "quantity": "",
+            "rate": "",
+            "amount": "1"
+        },
+        {
+            "description": "136",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "131 S474",
+            "quantity": "142025",
+            "rate": "1",
+            "amount": "6"
+        },
+        {
+            "description": "13",
+            "quantity": "24",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "133",
+            "quantity": "",
+            "rate": "",
+            "amount": "2"
+        },
+        {
+            "description": "154",
+            "quantity": "2412025",
+            "rate": "16.1",
+            "amount": "7"
+        },
+        {
+            "description": "135",
+            "quantity": "24112025",
+            "rate": "1",
+            "amount": "5"
+        },
+        {
+            "description": "136",
+            "quantity": "24",
+            "rate": "2202",
+            "amount": "5"
+        },
+        {
+            "description": "24112025",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        },
+        {
+            "description": "24-11-2025,",
+            "quantity": "1",
+            "rate": "",
+            "amount": "7"
+        }
+    ],
+    "subtotal_extracted": "200.00",
+    "total_extracted": "200.00",
+    "taxes": [],
+    "computed_total": 1605.0
+}
